@@ -1,0 +1,1590 @@
+{
+
+	"ads": {
+		"live_version_code": -1,
+		"init_ads_mode": "single",
+
+		"interstitial_type": "lap",
+		"interval_las": 5,
+
+		"timeout_load": 18,
+		"rate_dialog_count": 4,
+
+		"splash_ad": "auto",
+		"banner_ad": "auto",
+		"banner_detail_ad": "auto",
+		"mrec_ad": "auto",
+		"inter_ad": "auto",
+
+		"splash_ad_identifier": "identifier_1",
+		"inter_ad_identifier": "identifier_2",
+		"banner_ad_identifier": "identifier_3",
+		"banner_detail_ad_identifier": "identifier_4",
+		"mrec_ad_identifier": "identifier_5",
+
+		"interval_awal": 5,
+
+		"kemungkinan_smatoo": 0,
+		"minimum_time_smatoo": 120,
+		"interval_smatoo": 5,
+		"smatoo_publisher_id": "-",
+		"smatoo_banner": "-",
+		"smatoo_mrec": "-",
+		"smatoo_inter": "-",
+		"smatoo_init_wait": true,
+		"smatoo_banner_on" : true,
+		"smatoo_detail_banner_on" : true,
+		"smatoo_mrec_on" : true,
+		"smatoo_splash_on" : true,
+		"smatoo_inter_on" : true,
+		"smatoo_must_live_playstore" : true,
+
+		"kemungkinan_appodeal": 0,
+		"minimum_time_appodeal": 120,
+		"interval_appodeal": 5,
+		"appodeal_app_key": "-",
+		"appodeal_init_wait": true,
+		"appodeal_banner_on" : true,
+		"appodeal_detail_banner_on" : true,
+		"appodeal_mrec_on" : true,
+		"appodeal_splash_on" : true,
+		"appodeal_inter_on" : true,
+		"appodeal_must_live_playstore" : true,
+
+		"kemungkinan_vungle": 0,
+		"minimum_time_vungle": 120,
+		"interval_vungle": 5,
+		"vungle_app_id": "-",
+		"vungle_banner": "-",
+		"vungle_mrec": "-",
+		"vungle_inter": "-",
+		"vungle_init_wait": true,
+		"vungle_banner_on" : true,
+		"vungle_detail_banner_on" : true,
+		"vungle_mrec_on" : true,
+		"vungle_splash_on" : true,
+		"vungle_inter_on" : true,
+		"vungle_must_live_playstore" : true,
+
+		"kemungkinan_iron": 0,
+		"minimum_time_iron": 120,
+		"interval_iron": 5,
+		"iron_appkey": "-",
+		"iron_init_wait": true,
+		"iron_banner_on" : false,
+		"iron_detail_banner_on" : false,
+		"iron_mrec_on" : false,
+		"iron_splash_on" : true,
+		"iron_inter_on" : true,
+		"iron_must_live_playstore" : true,
+
+		"kemungkinan_fan": 0,
+		"minimum_time_fan": 120,
+		"interval_fan": 5,
+		"fan_banner": "-",
+		"fan_mrec": "-",
+		"fan_inter": "-",
+		"fan_init_wait": true,
+		"fan_banner_on" : true,
+		"fan_detail_banner_on" : true,
+		"fan_mrec_on" : true,
+		"fan_splash_on" : true,
+		"fan_inter_on" : true,
+		"fan_must_live_playstore" : true,
+
+		"kemungkinan_unity": 0,
+		"minimum_time_unity": 120,
+		"interval_unity": 5,
+		"unity_game_id": "-",
+		"unity_banner": "-",
+		"unity_inter": "-",
+		"unity_init_wait": true,
+		"unity_banner_on" : true,
+		"unity_detail_banner_on" : true,
+		"unity_mrec_on" : false,
+		"unity_splash_on" : true,
+		"unity_inter_on" : true,
+		"unity_must_live_playstore" : true,
+
+		"kemungkinan_admob": 0,
+		"minimum_time_admob": 300,
+		"interval_admob": 5,
+		"admob_open": "-",
+		"admob_banner": "-",
+		"admob_inter": "-",
+		"admob_init_wait": true,
+		"admob_banner_on" : true,
+		"admob_detail_banner_on" : true,
+		"admob_mrec_on" : true,
+		"admob_splash_on" : true,
+		"admob_inter_on" : true,
+		"admob_must_live_playstore" : true,
+
+		"kemungkinan_max": 0,
+		"minimum_time_max": 120,
+		"interval_max": 5,
+		"max_banner": "-",
+		"max_mrec": "-",
+		"max_inter": "-",
+		"max_init_wait": true,
+		"max_banner_on" : true,
+		"max_detail_banner_on" : true,
+		"max_mrec_on" : true,
+		"max_splash_on" : true,
+		"max_inter_on" : true,
+		"max_must_live_playstore" : true,
+
+		"kemungkinan_startapp": 1,
+		"minimum_time_startapp": 0,
+		"interval_startapp": 5,
+		"startapp_id": "207535332",
+		"startapp_init_wait": true,
+		"startapp_banner_on" : true,
+		"startapp_detail_banner_on" : true,
+		"startapp_mrec_on" : true,
+		"startapp_splash_on" : true,
+		"startapp_inter_on" : true,
+		"startapp_must_live_playstore" : true,
+
+		"app_live_store": "auto",
+		"shopee_aff": "null"
+	},
+
+
+	"Categories": [
+		{
+			"id": 1,
+			"name_category": "Bugis Offline",
+			"image": "file:///android_asset/content/Bugis_Offline/tray.jpg"
+		},
+		{
+			"id": 2,
+			"name_category": "Album Bugis",
+			"image": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.lagubugisoffline2022/Album_Bugis/tray.jpg"
+		},
+		{
+			"id": 3,
+			"name_category": "Bugis Full Album",
+			"image": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.lagubugisoffline2022/Bugis_Full_Album/tray.jpg"
+		},
+		{
+			"id": 4,
+			"name_category": "Lagu Bugis Pilihan",
+			"image": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.lagubugisoffline2022/Lagu_Bugis_Pilihan/tray.jpg"
+		},
+		{
+			"id": 5,
+			"name_category": "Lagu Bugis Viral",
+			"image": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.lagubugisoffline2022/Lagu_Bugis_Viral/tray.jpg"
+		}
+	],
+	"Data": [
+		{
+			"id": 1,
+			"name_category": "Bugis Offline",
+			"title": "Ada Mancenningmu",
+			"image": "file:///android_asset/content/Bugis_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/Bugis_Offline/Ada_Mancenningmu.mp3",
+			"duration": "261",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 2,
+			"name_category": "Bugis Offline",
+			"title": "Cappu Pakkuraga",
+			"image": "file:///android_asset/content/Bugis_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/Bugis_Offline/Cappu_Pakkuraga.mp3",
+			"duration": "302",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 3,
+			"name_category": "Bugis Offline",
+			"title": "Cauna Muaccanringeng",
+			"image": "file:///android_asset/content/Bugis_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/Bugis_Offline/Cauna_Muaccanringeng.mp3",
+			"duration": "286",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 4,
+			"name_category": "Bugis Offline",
+			"title": "Elong Tau Risalai",
+			"image": "file:///android_asset/content/Bugis_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/Bugis_Offline/Elong_Tau_Risalai.mp3",
+			"duration": "275",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 5,
+			"name_category": "Bugis Offline",
+			"title": "Idi Daeng Ungannaro Atiku",
+			"image": "file:///android_asset/content/Bugis_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/Bugis_Offline/Idi_Daeng_Ungannaro_Atiku.mp3",
+			"duration": "244",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 6,
+			"name_category": "Bugis Offline",
+			"title": "Idi Kasi Wija To Peddi",
+			"image": "file:///android_asset/content/Bugis_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/Bugis_Offline/Idi_Kasi_Wija_To_Peddi.mp3",
+			"duration": "327",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 7,
+			"name_category": "Bugis Offline",
+			"title": "Karma Pappoji",
+			"image": "file:///android_asset/content/Bugis_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/Bugis_Offline/Karma_Pappoji.mp3",
+			"duration": "359",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 8,
+			"name_category": "Bugis Offline",
+			"title": "Lennye Jarung",
+			"image": "file:///android_asset/content/Bugis_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/Bugis_Offline/Lennye_Jarung.mp3",
+			"duration": "265",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 9,
+			"name_category": "Bugis Offline",
+			"title": "Ma Boko Pappojimu",
+			"image": "file:///android_asset/content/Bugis_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/Bugis_Offline/Ma_Boko_Pappojimu.mp3",
+			"duration": "264",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 10,
+			"name_category": "Bugis Offline",
+			"title": "Makkunrai Jaman Now",
+			"image": "file:///android_asset/content/Bugis_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/Bugis_Offline/Makkunrai_Jaman_Now.mp3",
+			"duration": "327",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 11,
+			"name_category": "Bugis Offline",
+			"title": "Muaccanringengnga",
+			"image": "file:///android_asset/content/Bugis_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/Bugis_Offline/Muaccanringengnga.mp3",
+			"duration": "318",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 12,
+			"name_category": "Bugis Offline",
+			"title": "Murapang To Aju",
+			"image": "file:///android_asset/content/Bugis_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/Bugis_Offline/Murapang_To_Aju.mp3",
+			"duration": "249",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 13,
+			"name_category": "Bugis Offline",
+			"title": "Mutaroka Mulao",
+			"image": "file:///android_asset/content/Bugis_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/Bugis_Offline/Mutaroka_Mulao.mp3",
+			"duration": "245",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 14,
+			"name_category": "Bugis Offline",
+			"title": "Paccoba Corona",
+			"image": "file:///android_asset/content/Bugis_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/Bugis_Offline/Paccoba_Corona.mp3",
+			"duration": "338",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 15,
+			"name_category": "Bugis Offline",
+			"title": "Pada Sappa Laingnge",
+			"image": "file:///android_asset/content/Bugis_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/Bugis_Offline/Pada_Sappa_Laingnge.mp3",
+			"duration": "285",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 16,
+			"name_category": "Bugis Offline",
+			"title": "Pai Paria Upirasai",
+			"image": "file:///android_asset/content/Bugis_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/Bugis_Offline/Pai_Paria_Upirasai.mp3",
+			"duration": "278",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 17,
+			"name_category": "Bugis Offline",
+			"title": "Polo Sumange",
+			"image": "file:///android_asset/content/Bugis_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/Bugis_Offline/Polo_Sumange.mp3",
+			"duration": "312",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 18,
+			"name_category": "Bugis Offline",
+			"title": "Rappangngi Nippi",
+			"image": "file:///android_asset/content/Bugis_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/Bugis_Offline/Rappangngi_Nippi.mp3",
+			"duration": "277",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 19,
+			"name_category": "Bugis Offline",
+			"title": "Sibali Lino Ahera",
+			"image": "file:///android_asset/content/Bugis_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/Bugis_Offline/Sibali_Lino_Ahera.mp3",
+			"duration": "257",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 20,
+			"name_category": "Bugis Offline",
+			"title": "Sitinaja Musalai",
+			"image": "file:///android_asset/content/Bugis_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/Bugis_Offline/Sitinaja_Musalai.mp3",
+			"duration": "229",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 21,
+			"name_category": "Bugis Offline",
+			"title": "Tania Peddi Cedde",
+			"image": "file:///android_asset/content/Bugis_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/Bugis_Offline/Tania_Peddi_Cedde.mp3",
+			"duration": "291",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 22,
+			"name_category": "Bugis Offline",
+			"title": "Tekku Giling Rilaingnge",
+			"image": "file:///android_asset/content/Bugis_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/Bugis_Offline/Tekku_Giling_Rilaingnge.mp3",
+			"duration": "241",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 23,
+			"name_category": "Bugis Offline",
+			"title": "To Rippala",
+			"image": "file:///android_asset/content/Bugis_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/Bugis_Offline/To_Rippala.mp3",
+			"duration": "317",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 24,
+			"name_category": "Bugis Offline",
+			"title": "Tomatoa Kabene Bene",
+			"image": "file:///android_asset/content/Bugis_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/Bugis_Offline/Tomatoa_Kabene_Bene.mp3",
+			"duration": "305",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 25,
+			"name_category": "Bugis Offline",
+			"title": "Tuo Biu Biu",
+			"image": "file:///android_asset/content/Bugis_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/Bugis_Offline/Tuo_Biu_Biu.mp3",
+			"duration": "284",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 26,
+			"name_category": "Bugis Offline",
+			"title": "Uddani Tenri Bali",
+			"image": "file:///android_asset/content/Bugis_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/Bugis_Offline/Uddani_Tenri_Bali.mp3",
+			"duration": "274",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 27,
+			"name_category": "Bugis Offline",
+			"title": "Uperrengi Kubertahan",
+			"image": "file:///android_asset/content/Bugis_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/Bugis_Offline/Uperrengi_Kubertahan.mp3",
+			"duration": "260",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 28,
+			"name_category": "Bugis Offline",
+			"title": "Welang Pelang",
+			"image": "file:///android_asset/content/Bugis_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/Bugis_Offline/Welang_Pelang.mp3",
+			"duration": "376",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 29,
+			"name_category": "Bugis Offline",
+			"title": "Lagu Bugis Paling Viral 2022__Meloni Yaga Tetteni Yola__Dewi kaddi ft Yukii(MP3_70K)",
+			"image": "file:///android_asset/content/Bugis_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/Bugis_Offline/Bugis_Offline_1.mp3",
+			"duration": "350",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 30,
+			"name_category": "Bugis Offline",
+			"title": "LAGU BUGIS TERBAIK _ POLO SUMANGE _ CIPT ANCHA S __ COVER ANDRIKHAN(MP3_70K)",
+			"image": "file:///android_asset/content/Bugis_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/Bugis_Offline/Bugis_Offline_2.mp3",
+			"duration": "401",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 31,
+			"name_category": "Bugis Offline",
+			"title": "Lagu Bugis Terbaru Viral _PAI PARIA UPIRASAI_ Cipt.Firman sima randy _ Annisa sr(MP3_70K)",
+			"image": "file:///android_asset/content/Bugis_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/Bugis_Offline/Bugis_Offline_3.mp3",
+			"duration": "278",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 32,
+			"name_category": "Bugis Offline",
+			"title": "LAGU DAERAH BUGIS - ALOSI RIPOLO DUA (COVER) Dildil(MP3_70K)",
+			"image": "file:///android_asset/content/Bugis_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/Bugis_Offline/Bugis_Offline_4.mp3",
+			"duration": "320",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 33,
+			"name_category": "Bugis Offline",
+			"title": "LENYNYE JARUNG ( BATEKU MAPPOJI RIALEMU ) - LAGU BUGIS VIRAL TERBARU(MP3_70K)",
+			"image": "file:///android_asset/content/Bugis_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/Bugis_Offline/Bugis_Offline_5.mp3",
+			"duration": "278",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 34,
+			"name_category": "Bugis Offline",
+			"title": "Muaccanringengnga (COVER) _ Cipt_ Ancha.s _ Vania(MP3_70K)",
+			"image": "file:///android_asset/content/Bugis_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/Bugis_Offline/Bugis_Offline_6.mp3",
+			"duration": "264",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 35,
+			"name_category": "Bugis Offline",
+			"title": "Mutaroanga Janci Cover _ Nurmaisella(MP3_70K)",
+			"image": "file:///android_asset/content/Bugis_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/Bugis_Offline/Bugis_Offline_7.mp3",
+			"duration": "249",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 36,
+			"name_category": "Bugis Offline",
+			"title": "Nur Mai Sella - Uddani Tenri Bali _ Lagu Bugis Milenial Terbaru(MP3_70K)",
+			"image": "file:///android_asset/content/Bugis_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/Bugis_Offline/Bugis_Offline_8.mp3",
+			"duration": "252",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 37,
+			"name_category": "Bugis Offline",
+			"title": "OFFICIAL Video clip SAJENG RENNU Ost SILARIANG - Art2tonic feat IKA KDI(MP3_70K)",
+			"image": "file:///android_asset/content/Bugis_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/Bugis_Offline/Bugis_Offline_9.mp3",
+			"duration": "269",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 38,
+			"name_category": "Bugis Offline",
+			"title": "Pada sappa Laingnge__Sappa Poli__Leony Angel__cover version(MP3_70K)",
+			"image": "file:///android_asset/content/Bugis_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/Bugis_Offline/Bugis_Offline_10.mp3",
+			"duration": "284",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 39,
+			"name_category": "Bugis Offline",
+			"title": "Pai Paria Upirasai (Nabila Wulandari) _lagubugis _liriklagu(MP3_70K)",
+			"image": "file:///android_asset/content/Bugis_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/Bugis_Offline/Bugis_Offline_11.mp3",
+			"duration": "243",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 40,
+			"name_category": "Bugis Offline",
+			"title": "RISALAH HATI - KEISYA IDOL (LYRICS VIDEO)(MP3_128K)",
+			"image": "file:///android_asset/content/Bugis_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/Bugis_Offline/Bugis_Offline_12.mp3",
+			"duration": "166",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 41,
+			"name_category": "Bugis Offline",
+			"title": "Sabbara_pi Na Jaji - Yuki Vii feat. Dewi Kaddi _ Lagu Bugis Terbaru (Official Music Video)(MP3_70K)",
+			"image": "file:///android_asset/content/Bugis_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/Bugis_Offline/Bugis_Offline_13.mp3",
+			"duration": "354",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 42,
+			"name_category": "Bugis Offline",
+			"title": "Sajang Rennu Cover I Nur Mai Sella(MP3_70K)",
+			"image": "file:///android_asset/content/Bugis_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/Bugis_Offline/Bugis_Offline_14.mp3",
+			"duration": "343",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 43,
+			"name_category": "Album Bugis",
+			"title": "CANI MUTANENG || CIPT: EMMU LEO STAR || COVER: YOANNA",
+			"image": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.lagubugisoffline2022/Album_Bugis/tray.jpg",
+			"link_mp3": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.lagubugisoffline2022/Album_Bugis/Album_Bugis_1.mp3",
+			"duration": "331",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 44,
+			"name_category": "Album Bugis",
+			"title": "DEGAGA DUANNA~ COVER: YOANNA~ CIPT: ANGGA DINATA",
+			"image": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.lagubugisoffline2022/Album_Bugis/tray.jpg",
+			"link_mp3": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.lagubugisoffline2022/Album_Bugis/Album_Bugis_2.mp3",
+			"duration": "313",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 45,
+			"name_category": "Album Bugis",
+			"title": "ELONG TAU RISALAI ~ COVER: YOANNA ~ CIPT. ANCHA MAHENDRA",
+			"image": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.lagubugisoffline2022/Album_Bugis/tray.jpg",
+			"link_mp3": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.lagubugisoffline2022/Album_Bugis/Album_Bugis_3.mp3",
+			"duration": "274",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 46,
+			"name_category": "Album Bugis",
+			"title": "LAGU BUGIS ABADI || TAU KASI-ASI MEMENGNGA\' || CIPT: A.MAKKULAU S.H || COVER: YOANNA",
+			"image": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.lagubugisoffline2022/Album_Bugis/tray.jpg",
+			"link_mp3": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.lagubugisoffline2022/Album_Bugis/Album_Bugis_4.mp3",
+			"duration": "276",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 47,
+			"name_category": "Album Bugis",
+			"title": "LASA RIALE || CIPT: ALFIANSYAH || COVER YOANNA (SPESIAL REQ BOS @MR_KEVIN_REAL)",
+			"image": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.lagubugisoffline2022/Album_Bugis/tray.jpg",
+			"link_mp3": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.lagubugisoffline2022/Album_Bugis/Album_Bugis_5.mp3",
+			"duration": "316",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 48,
+			"name_category": "Album Bugis",
+			"title": "PACCOBA || CIPT: SANDY CHENG || VOC. YOANNA (OFFICIAL MUSIC VIDEO)",
+			"image": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.lagubugisoffline2022/Album_Bugis/tray.jpg",
+			"link_mp3": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.lagubugisoffline2022/Album_Bugis/Album_Bugis_6.mp3",
+			"duration": "481",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 49,
+			"name_category": "Album Bugis",
+			"title": "RAPANGNGI NIPPI ~ VOC:YOANNA~ CIPT: ZANKREWO (Official Musik Video)",
+			"image": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.lagubugisoffline2022/Album_Bugis/tray.jpg",
+			"link_mp3": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.lagubugisoffline2022/Album_Bugis/Album_Bugis_7.mp3",
+			"duration": "277",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 50,
+			"name_category": "Album Bugis",
+			"title": "SITINAJA MUSALAI ~ VOC: YOANNA ~ CIPT: ZANKREWO (Official Musik Video)",
+			"image": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.lagubugisoffline2022/Album_Bugis/tray.jpg",
+			"link_mp3": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.lagubugisoffline2022/Album_Bugis/Album_Bugis_8.mp3",
+			"duration": "229",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 51,
+			"name_category": "Album Bugis",
+			"title": "TANIA PEDDI CEDDE ~ COVER: YOANNA ~ CIPT: YUKI VII",
+			"image": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.lagubugisoffline2022/Album_Bugis/tray.jpg",
+			"link_mp3": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.lagubugisoffline2022/Album_Bugis/Album_Bugis_9.mp3",
+			"duration": "291",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 52,
+			"name_category": "Album Bugis",
+			"title": "TEANA MASSENGE (MAPPOJI SIMATA JARUNG) || CIPT: A.MAKKULAU S.H || COVER: YOANNA",
+			"image": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.lagubugisoffline2022/Album_Bugis/tray.jpg",
+			"link_mp3": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.lagubugisoffline2022/Album_Bugis/Album_Bugis_10.mp3",
+			"duration": "246",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 53,
+			"name_category": "Album Bugis",
+			"title": "TUO BIU BIU ~ CIPT: SANDY CHENG ~ COVER : YOANNA",
+			"image": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.lagubugisoffline2022/Album_Bugis/tray.jpg",
+			"link_mp3": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.lagubugisoffline2022/Album_Bugis/Album_Bugis_11.mp3",
+			"duration": "347",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 54,
+			"name_category": "Album Bugis",
+			"title": "Wija Kamase ~ Cipt. Edi Polanda~ Cover : Yoanna",
+			"image": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.lagubugisoffline2022/Album_Bugis/tray.jpg",
+			"link_mp3": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.lagubugisoffline2022/Album_Bugis/Album_Bugis_12.mp3",
+			"duration": "359",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 55,
+			"name_category": "Album Bugis",
+			"title": "LAGU BUGIS ADA SILAPPAMU TENRI SENGE KARAOKE#TANPA#VOCAL",
+			"image": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.lagubugisoffline2022/Album_Bugis/tray.jpg",
+			"link_mp3": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.lagubugisoffline2022/Album_Bugis/Album_Bugis_13.mp3",
+			"duration": "332",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 56,
+			"name_category": "Album Bugis",
+			"title": "148 06 Kegani JancimMu ~ Ridwan Sau",
+			"image": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.lagubugisoffline2022/Album_Bugis/tray.jpg",
+			"link_mp3": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.lagubugisoffline2022/Album_Bugis/Album_Bugis_14.mp3",
+			"duration": "328",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 57,
+			"name_category": "Album Bugis",
+			"title": "Lagu Bugis sedih ~ UTIWI SARAKU || SILVA ~ alink musik",
+			"image": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.lagubugisoffline2022/Album_Bugis/tray.jpg",
+			"link_mp3": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.lagubugisoffline2022/Album_Bugis/Album_Bugis_15.mp3",
+			"duration": "415",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 58,
+			"name_category": "Album Bugis",
+			"title": "ANCHA. S - LAONA KALAO LAO",
+			"image": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.lagubugisoffline2022/Album_Bugis/tray.jpg",
+			"link_mp3": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.lagubugisoffline2022/Album_Bugis/Album_Bugis_16.mp3",
+			"duration": "326",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 59,
+			"name_category": "Album Bugis",
+			"title": "Andi Ila Lida - Muaccanringengnga",
+			"image": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.lagubugisoffline2022/Album_Bugis/tray.jpg",
+			"link_mp3": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.lagubugisoffline2022/Album_Bugis/Album_Bugis_17.mp3",
+			"duration": "318",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 60,
+			"name_category": "Album Bugis",
+			"title": "LAGU BUGIS TERBAIK || DOPPULO LIMA JUTA | (KARYA H.AMIR SHALMAN) COV #SULTANLONG",
+			"image": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.lagubugisoffline2022/Album_Bugis/tray.jpg",
+			"link_mp3": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.lagubugisoffline2022/Album_Bugis/Album_Bugis_19.mp3",
+			"duration": "352",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 61,
+			"name_category": "Album Bugis",
+			"title": "GAUN MERAH (versi bugis) dewi kaddi -COVER AGUNG FANY",
+			"image": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.lagubugisoffline2022/Album_Bugis/tray.jpg",
+			"link_mp3": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.lagubugisoffline2022/Album_Bugis/Album_Bugis_20.mp3",
+			"duration": "254",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 62,
+			"name_category": "Album Bugis",
+			"title": "LAGU BUGIS ?ELECKTONE VIRAL? RIPALLA KAMASE [ DIDIN PRATAMA ] COVER : DEVITA RAFA",
+			"image": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.lagubugisoffline2022/Album_Bugis/tray.jpg",
+			"link_mp3": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.lagubugisoffline2022/Album_Bugis/Album_Bugis_21.mp3",
+			"duration": "357",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 63,
+			"name_category": "Album Bugis",
+			"title": "LAGU BUGIS BATE LIMAMMU - FANI [ ALINK MUSIK ]",
+			"image": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.lagubugisoffline2022/Album_Bugis/tray.jpg",
+			"link_mp3": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.lagubugisoffline2022/Album_Bugis/Album_Bugis_22.mp3",
+			"duration": "399",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 64,
+			"name_category": "Album Bugis",
+			"title": "LAGU BUGIS MENDAYU-DAYU MENUSUK HATI || MUTELLE TENG ELOKU | ALINK MUSIK",
+			"image": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.lagubugisoffline2022/Album_Bugis/tray.jpg",
+			"link_mp3": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.lagubugisoffline2022/Album_Bugis/Album_Bugis_23.mp3",
+			"duration": "401",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 65,
+			"name_category": "Album Bugis",
+			"title": "To\' Na Atikku||Lagu Duet Terbaru||Randiansyah Feat Leony Angel",
+			"image": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.lagubugisoffline2022/Album_Bugis/tray.jpg",
+			"link_mp3": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.lagubugisoffline2022/Album_Bugis/Album_Bugis_24.mp3",
+			"duration": "298",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 66,
+			"name_category": "Album Bugis",
+			"title": "BULU ALAU\'NA TEMPE-DIAN EKAWATY (Lirik)",
+			"image": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.lagubugisoffline2022/Album_Bugis/tray.jpg",
+			"link_mp3": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.lagubugisoffline2022/Album_Bugis/Album_Bugis_26.mp3",
+			"duration": "349",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 67,
+			"name_category": "Album Bugis",
+			"title": "Bunga Rossi / Assijancingetta Cover",
+			"image": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.lagubugisoffline2022/Album_Bugis/tray.jpg",
+			"link_mp3": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.lagubugisoffline2022/Album_Bugis/Album_Bugis_27.mp3",
+			"duration": "205",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 68,
+			"name_category": "Album Bugis",
+			"title": "Lagu Favoritnya Fildan Balo Lipa [ Lyrick dan Terjemahannya)",
+			"image": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.lagubugisoffline2022/Album_Bugis/tray.jpg",
+			"link_mp3": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.lagubugisoffline2022/Album_Bugis/Album_Bugis_29.mp3",
+			"duration": "268",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 69,
+			"name_category": "Album Bugis",
+			"title": "Selfi Yamma-PPKM (Puadai Pappoji Ko Mappojiki)|official Bugis Version",
+			"image": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.lagubugisoffline2022/Album_Bugis/tray.jpg",
+			"link_mp3": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.lagubugisoffline2022/Album_Bugis/Album_Bugis_30.mp3",
+			"duration": "242",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 70,
+			"name_category": "Album Bugis",
+			"title": "SILVA || LAGU BUGIS POPULER ~ RAPAMMI APUNG | ALINK MUSIK",
+			"image": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.lagubugisoffline2022/Album_Bugis/tray.jpg",
+			"link_mp3": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.lagubugisoffline2022/Album_Bugis/Album_Bugis_31.mp3",
+			"duration": "332",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 71,
+			"name_category": "Album Bugis",
+			"title": "Alosi Ripolo Dua - lirik dan artinya | lagu daerah Bugis",
+			"image": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.lagubugisoffline2022/Album_Bugis/tray.jpg",
+			"link_mp3": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.lagubugisoffline2022/Album_Bugis/Album_Bugis_32.mp3",
+			"duration": "218",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 72,
+			"name_category": "Album Bugis",
+			"title": "TEMMAPESABBI - LAGU BUGIS COVER BY REGITA ( HD AUDIO )",
+			"image": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.lagubugisoffline2022/Album_Bugis/tray.jpg",
+			"link_mp3": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.lagubugisoffline2022/Album_Bugis/Album_Bugis_33.mp3",
+			"duration": "245",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 73,
+			"name_category": "Album Bugis",
+			"title": "INDO LOGO lirik ~ ᨕᨗ ᨉᨚ. ᨒᨚ ᨁᨚ",
+			"image": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.lagubugisoffline2022/Album_Bugis/tray.jpg",
+			"link_mp3": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.lagubugisoffline2022/Album_Bugis/Album_Bugis_34.mp3",
+			"duration": "341",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 74,
+			"name_category": "Album Bugis",
+			"title": "LAGU BUGIS - Ade To Riolo vocal Fajriah Ekko (Lirik & Terjemahan Bahasa Indonesia) creative+",
+			"image": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.lagubugisoffline2022/Album_Bugis/tray.jpg",
+			"link_mp3": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.lagubugisoffline2022/Album_Bugis/Album_Bugis_35.mp3",
+			"duration": "279",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 75,
+			"name_category": "Album Bugis",
+			"title": "Lagu Bugis Mangittu Marilaleng Cover Ananda Putri ft Arman Pio",
+			"image": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.lagubugisoffline2022/Album_Bugis/tray.jpg",
+			"link_mp3": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.lagubugisoffline2022/Album_Bugis/Album_Bugis_36.mp3",
+			"duration": "342",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 76,
+			"name_category": "Bugis Full Album",
+			"title": "Alosi Ripolo Dua - lirik dan artinya _ lagu daerah Bugis(MP3_320K)",
+			"image": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.lagubugisoffline2022/Bugis_Full_Album/tray.jpg",
+			"link_mp3": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.lagubugisoffline2022/Bugis_Full_Album/Bugis_Full_Album_1.mp3",
+			"duration": "218",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 77,
+			"name_category": "Bugis Full Album",
+			"title": "Andri Khan - Ciccing Passio(MP3_70K)",
+			"image": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.lagubugisoffline2022/Bugis_Full_Album/tray.jpg",
+			"link_mp3": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.lagubugisoffline2022/Bugis_Full_Album/Bugis_Full_Album_2.mp3",
+			"duration": "423",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 78,
+			"name_category": "Bugis Full Album",
+			"title": "Bulu Alau_na Tempe Cover _ NURMAISELLA(MP3_70K)",
+			"image": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.lagubugisoffline2022/Bugis_Full_Album/tray.jpg",
+			"link_mp3": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.lagubugisoffline2022/Bugis_Full_Album/Bugis_Full_Album_3.mp3",
+			"duration": "257",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 79,
+			"name_category": "Bugis Full Album",
+			"title": "Bunga Rossi _ Assijancingetta Cover(MP3_70K)",
+			"image": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.lagubugisoffline2022/Bugis_Full_Album/tray.jpg",
+			"link_mp3": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.lagubugisoffline2022/Bugis_Full_Album/Bugis_Full_Album_4.mp3",
+			"duration": "205",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 80,
+			"name_category": "Bugis Full Album",
+			"title": "CIDDA GERRI Lagu Bugis Viral ‼️ __ All Artis Alink Musik(MP3_70K)",
+			"image": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.lagubugisoffline2022/Bugis_Full_Album/tray.jpg",
+			"link_mp3": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.lagubugisoffline2022/Bugis_Full_Album/Bugis_Full_Album_5.mp3",
+			"duration": "350",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 81,
+			"name_category": "Bugis Full Album",
+			"title": "Fiersa Besari - Celengan Rindu (Lirik) Cover by Keisya Levronka __ Lagu Baper(MP3_320K)",
+			"image": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.lagubugisoffline2022/Bugis_Full_Album/tray.jpg",
+			"link_mp3": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.lagubugisoffline2022/Bugis_Full_Album/Bugis_Full_Album_6.mp3",
+			"duration": "185",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 82,
+			"name_category": "Bugis Full Album",
+			"title": "Indo Logo Cover(MP3_70K)",
+			"image": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.lagubugisoffline2022/Bugis_Full_Album/tray.jpg",
+			"link_mp3": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.lagubugisoffline2022/Bugis_Full_Album/Bugis_Full_Album_7.mp3",
+			"duration": "207",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 83,
+			"name_category": "Bugis Full Album",
+			"title": "Lagu Bugis _❤️ ------ ------------------ ------------ _ ---------- ------------------(----------) ❤️(MP3_70K)",
+			"image": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.lagubugisoffline2022/Bugis_Full_Album/tray.jpg",
+			"link_mp3": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.lagubugisoffline2022/Bugis_Full_Album/Bugis_Full_Album_8.mp3",
+			"duration": "306",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 84,
+			"name_category": "Bugis Full Album",
+			"title": "Lagu Bugis _Uperrengi (kubertahan) - Selfi Yamma ( Foto Lirik )(MP3_70K)",
+			"image": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.lagubugisoffline2022/Bugis_Full_Album/tray.jpg",
+			"link_mp3": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.lagubugisoffline2022/Bugis_Full_Album/Bugis_Full_Album_9.mp3",
+			"duration": "257",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 85,
+			"name_category": "Bugis Full Album",
+			"title": "LAGU BUGIS ABADI _BUNGA MA_DUNU E_ Cipt.H.Mustafa bande __ Annisa _ Arif Official(MP3_70K)",
+			"image": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.lagubugisoffline2022/Bugis_Full_Album/tray.jpg",
+			"link_mp3": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.lagubugisoffline2022/Bugis_Full_Album/Bugis_Full_Album_10.mp3",
+			"duration": "311",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 86,
+			"name_category": "Bugis Full Album",
+			"title": "LAGU BUGIS PALING ENAK DIDENGAR 2020 ININNAWA SABBARA_E [ CHIPENKZ ft. SELLA ] ALINK MUSIK(MP3_70K)",
+			"image": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.lagubugisoffline2022/Bugis_Full_Album/tray.jpg",
+			"link_mp3": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.lagubugisoffline2022/Bugis_Full_Album/Bugis_Full_Album_11.mp3",
+			"duration": "529",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 87,
+			"name_category": "Bugis Full Album",
+			"title": "Sella ft Chipenkz __ Elo Tomatoa (Lyrics)(MP3_320K)",
+			"image": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.lagubugisoffline2022/Bugis_Full_Album/tray.jpg",
+			"link_mp3": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.lagubugisoffline2022/Bugis_Full_Album/Bugis_Full_Album_12.mp3",
+			"duration": "329",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 88,
+			"name_category": "Bugis Full Album",
+			"title": "Setelah Tereliminasi Keisya Levronka cover - If I Ain_t Got You(MP3_70K)",
+			"image": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.lagubugisoffline2022/Bugis_Full_Album/tray.jpg",
+			"link_mp3": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.lagubugisoffline2022/Bugis_Full_Album/Bugis_Full_Album_13.mp3",
+			"duration": "147",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 89,
+			"name_category": "Bugis Full Album",
+			"title": "Sibali lino ahera cover Nur mai sella(MP3_70K)",
+			"image": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.lagubugisoffline2022/Bugis_Full_Album/tray.jpg",
+			"link_mp3": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.lagubugisoffline2022/Bugis_Full_Album/Bugis_Full_Album_14.mp3",
+			"duration": "240",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 90,
+			"name_category": "Bugis Full Album",
+			"title": "SITINAJA MUSALAI _ VOC_ YOANNA _ CIPT_ ZANKREWO (Official Musik Video)(MP3_70K)",
+			"image": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.lagubugisoffline2022/Bugis_Full_Album/tray.jpg",
+			"link_mp3": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.lagubugisoffline2022/Bugis_Full_Album/Bugis_Full_Album_15.mp3",
+			"duration": "229",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 91,
+			"name_category": "Bugis Full Album",
+			"title": "TANA OGI_ WANUAKKU - TENRI UKKE __ VIDEO LIRIK _ TERJEMAHAN by faeyza ramdan(MP3_320K)",
+			"image": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.lagubugisoffline2022/Bugis_Full_Album/tray.jpg",
+			"link_mp3": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.lagubugisoffline2022/Bugis_Full_Album/Bugis_Full_Album_16.mp3",
+			"duration": "258",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 92,
+			"name_category": "Bugis Full Album",
+			"title": "TANA OGI_ WANUAKKU - TENRI UKKE __ VIDEO LIRIK _ TERJEMAHAN by faeyza ramdan(MP3_70K)",
+			"image": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.lagubugisoffline2022/Bugis_Full_Album/tray.jpg",
+			"link_mp3": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.lagubugisoffline2022/Bugis_Full_Album/Bugis_Full_Album_17.mp3",
+			"duration": "258",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 93,
+			"name_category": "Bugis Full Album",
+			"title": "Tania Peddi Cedde__Single Terbaru Yuki Vii(MP3_320K)",
+			"image": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.lagubugisoffline2022/Bugis_Full_Album/tray.jpg",
+			"link_mp3": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.lagubugisoffline2022/Bugis_Full_Album/Bugis_Full_Album_18.mp3",
+			"duration": "291",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 94,
+			"name_category": "Bugis Full Album",
+			"title": "Teana Masengnge Cover(MP3_70K)",
+			"image": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.lagubugisoffline2022/Bugis_Full_Album/tray.jpg",
+			"link_mp3": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.lagubugisoffline2022/Bugis_Full_Album/Bugis_Full_Album_19.mp3",
+			"duration": "283",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 95,
+			"name_category": "Lagu Bugis Pilihan",
+			"title": "Lagu Bugis Pilihan 1",
+			"image": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.lagubugisoffline2022/Lagu_Bugis_Pilihan/tray.jpg",
+			"link_mp3": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.lagubugisoffline2022/Lagu_Bugis_Pilihan/Lagu_Bugis_Pilihan_1.mp3",
+			"duration": "348",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 96,
+			"name_category": "Lagu Bugis Pilihan",
+			"title": "Lagu Bugis Pilihan 2",
+			"image": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.lagubugisoffline2022/Lagu_Bugis_Pilihan/tray.jpg",
+			"link_mp3": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.lagubugisoffline2022/Lagu_Bugis_Pilihan/Lagu_Bugis_Pilihan_2.mp3",
+			"duration": "295",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 97,
+			"name_category": "Lagu Bugis Pilihan",
+			"title": "Lagu Bugis Pilihan 3",
+			"image": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.lagubugisoffline2022/Lagu_Bugis_Pilihan/tray.jpg",
+			"link_mp3": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.lagubugisoffline2022/Lagu_Bugis_Pilihan/Lagu_Bugis_Pilihan_3.mp3",
+			"duration": "270",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 98,
+			"name_category": "Lagu Bugis Pilihan",
+			"title": "Lagu Bugis Pilihan 4",
+			"image": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.lagubugisoffline2022/Lagu_Bugis_Pilihan/tray.jpg",
+			"link_mp3": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.lagubugisoffline2022/Lagu_Bugis_Pilihan/Lagu_Bugis_Pilihan_4.mp3",
+			"duration": "267",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 99,
+			"name_category": "Lagu Bugis Pilihan",
+			"title": "Lagu Bugis Pilihan 5",
+			"image": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.lagubugisoffline2022/Lagu_Bugis_Pilihan/tray.jpg",
+			"link_mp3": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.lagubugisoffline2022/Lagu_Bugis_Pilihan/Lagu_Bugis_Pilihan_5.mp3",
+			"duration": "448",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 100,
+			"name_category": "Lagu Bugis Pilihan",
+			"title": "Lagu Bugis Pilihan 6",
+			"image": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.lagubugisoffline2022/Lagu_Bugis_Pilihan/tray.jpg",
+			"link_mp3": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.lagubugisoffline2022/Lagu_Bugis_Pilihan/Lagu_Bugis_Pilihan_6.mp3",
+			"duration": "261",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 101,
+			"name_category": "Lagu Bugis Pilihan",
+			"title": "Lagu Bugis Pilihan 7",
+			"image": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.lagubugisoffline2022/Lagu_Bugis_Pilihan/tray.jpg",
+			"link_mp3": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.lagubugisoffline2022/Lagu_Bugis_Pilihan/Lagu_Bugis_Pilihan_7.mp3",
+			"duration": "277",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 102,
+			"name_category": "Lagu Bugis Pilihan",
+			"title": "Lagu Bugis Pilihan 8",
+			"image": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.lagubugisoffline2022/Lagu_Bugis_Pilihan/tray.jpg",
+			"link_mp3": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.lagubugisoffline2022/Lagu_Bugis_Pilihan/Lagu_Bugis_Pilihan_8.mp3",
+			"duration": "320",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 103,
+			"name_category": "Lagu Bugis Pilihan",
+			"title": "Lagu Bugis Pilihan 9",
+			"image": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.lagubugisoffline2022/Lagu_Bugis_Pilihan/tray.jpg",
+			"link_mp3": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.lagubugisoffline2022/Lagu_Bugis_Pilihan/Lagu_Bugis_Pilihan_9.mp3",
+			"duration": "219",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 104,
+			"name_category": "Lagu Bugis Pilihan",
+			"title": "Lagu Bugis Pilihan 10",
+			"image": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.lagubugisoffline2022/Lagu_Bugis_Pilihan/tray.jpg",
+			"link_mp3": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.lagubugisoffline2022/Lagu_Bugis_Pilihan/Lagu_Bugis_Pilihan_10.mp3",
+			"duration": "330",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 105,
+			"name_category": "Lagu Bugis Pilihan",
+			"title": "Lagu Bugis Pilihan 11",
+			"image": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.lagubugisoffline2022/Lagu_Bugis_Pilihan/tray.jpg",
+			"link_mp3": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.lagubugisoffline2022/Lagu_Bugis_Pilihan/Lagu_Bugis_Pilihan_11.mp3",
+			"duration": "216",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 106,
+			"name_category": "Lagu Bugis Pilihan",
+			"title": "Lagu Bugis Pilihan 12",
+			"image": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.lagubugisoffline2022/Lagu_Bugis_Pilihan/tray.jpg",
+			"link_mp3": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.lagubugisoffline2022/Lagu_Bugis_Pilihan/Lagu_Bugis_Pilihan_12.mp3",
+			"duration": "334",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 107,
+			"name_category": "Lagu Bugis Pilihan",
+			"title": "Lagu Bugis Pilihan 13",
+			"image": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.lagubugisoffline2022/Lagu_Bugis_Pilihan/tray.jpg",
+			"link_mp3": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.lagubugisoffline2022/Lagu_Bugis_Pilihan/Lagu_Bugis_Pilihan_13.mp3",
+			"duration": "306",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 108,
+			"name_category": "Lagu Bugis Pilihan",
+			"title": "Lagu Bugis Pilihan 14",
+			"image": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.lagubugisoffline2022/Lagu_Bugis_Pilihan/tray.jpg",
+			"link_mp3": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.lagubugisoffline2022/Lagu_Bugis_Pilihan/Lagu_Bugis_Pilihan_14.mp3",
+			"duration": "260",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 109,
+			"name_category": "Lagu Bugis Pilihan",
+			"title": "Lagu Bugis Pilihan 15",
+			"image": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.lagubugisoffline2022/Lagu_Bugis_Pilihan/tray.jpg",
+			"link_mp3": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.lagubugisoffline2022/Lagu_Bugis_Pilihan/Lagu_Bugis_Pilihan_15.mp3",
+			"duration": "270",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 110,
+			"name_category": "Lagu Bugis Pilihan",
+			"title": "Lagu Bugis Pilihan 16",
+			"image": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.lagubugisoffline2022/Lagu_Bugis_Pilihan/tray.jpg",
+			"link_mp3": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.lagubugisoffline2022/Lagu_Bugis_Pilihan/Lagu_Bugis_Pilihan_16.mp3",
+			"duration": "302",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 111,
+			"name_category": "Lagu Bugis Pilihan",
+			"title": "Lagu Bugis Pilihan 17",
+			"image": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.lagubugisoffline2022/Lagu_Bugis_Pilihan/tray.jpg",
+			"link_mp3": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.lagubugisoffline2022/Lagu_Bugis_Pilihan/Lagu_Bugis_Pilihan_17.mp3",
+			"duration": "304",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 112,
+			"name_category": "Lagu Bugis Pilihan",
+			"title": "Lagu Bugis Pilihan 18",
+			"image": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.lagubugisoffline2022/Lagu_Bugis_Pilihan/tray.jpg",
+			"link_mp3": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.lagubugisoffline2022/Lagu_Bugis_Pilihan/Lagu_Bugis_Pilihan_18.mp3",
+			"duration": "371",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 113,
+			"name_category": "Lagu Bugis Pilihan",
+			"title": "Lagu Bugis Pilihan 19",
+			"image": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.lagubugisoffline2022/Lagu_Bugis_Pilihan/tray.jpg",
+			"link_mp3": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.lagubugisoffline2022/Lagu_Bugis_Pilihan/Lagu_Bugis_Pilihan_19.mp3",
+			"duration": "339",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 114,
+			"name_category": "Lagu Bugis Pilihan",
+			"title": "Lagu Bugis Pilihan 20",
+			"image": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.lagubugisoffline2022/Lagu_Bugis_Pilihan/tray.jpg",
+			"link_mp3": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.lagubugisoffline2022/Lagu_Bugis_Pilihan/Lagu_Bugis_Pilihan_20.mp3",
+			"duration": "308",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 115,
+			"name_category": "Lagu Bugis Pilihan",
+			"title": "Lagu Bugis Pilihan 21",
+			"image": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.lagubugisoffline2022/Lagu_Bugis_Pilihan/tray.jpg",
+			"link_mp3": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.lagubugisoffline2022/Lagu_Bugis_Pilihan/Lagu_Bugis_Pilihan_21.mp3",
+			"duration": "294",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 116,
+			"name_category": "Lagu Bugis Pilihan",
+			"title": "Lagu Bugis Pilihan 22",
+			"image": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.lagubugisoffline2022/Lagu_Bugis_Pilihan/tray.jpg",
+			"link_mp3": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.lagubugisoffline2022/Lagu_Bugis_Pilihan/Lagu_Bugis_Pilihan_22.mp3",
+			"duration": "279",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 117,
+			"name_category": "Lagu Bugis Pilihan",
+			"title": "Lagu Bugis Pilihan 23",
+			"image": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.lagubugisoffline2022/Lagu_Bugis_Pilihan/tray.jpg",
+			"link_mp3": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.lagubugisoffline2022/Lagu_Bugis_Pilihan/Lagu_Bugis_Pilihan_23.mp3",
+			"duration": "318",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 118,
+			"name_category": "Lagu Bugis Pilihan",
+			"title": "Lagu Bugis Pilihan 24",
+			"image": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.lagubugisoffline2022/Lagu_Bugis_Pilihan/tray.jpg",
+			"link_mp3": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.lagubugisoffline2022/Lagu_Bugis_Pilihan/Lagu_Bugis_Pilihan_24.mp3",
+			"duration": "212",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 119,
+			"name_category": "Lagu Bugis Pilihan",
+			"title": "Lagu Bugis Pilihan 25",
+			"image": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.lagubugisoffline2022/Lagu_Bugis_Pilihan/tray.jpg",
+			"link_mp3": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.lagubugisoffline2022/Lagu_Bugis_Pilihan/Lagu_Bugis_Pilihan_25.mp3",
+			"duration": "335",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 120,
+			"name_category": "Lagu Bugis Pilihan",
+			"title": "Lagu Bugis Pilihan 26",
+			"image": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.lagubugisoffline2022/Lagu_Bugis_Pilihan/tray.jpg",
+			"link_mp3": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.lagubugisoffline2022/Lagu_Bugis_Pilihan/Lagu_Bugis_Pilihan_26.mp3",
+			"duration": "254",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 121,
+			"name_category": "Lagu Bugis Pilihan",
+			"title": "Lagu Bugis Pilihan 27",
+			"image": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.lagubugisoffline2022/Lagu_Bugis_Pilihan/tray.jpg",
+			"link_mp3": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.lagubugisoffline2022/Lagu_Bugis_Pilihan/Lagu_Bugis_Pilihan_27.mp3",
+			"duration": "258",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 122,
+			"name_category": "Lagu Bugis Pilihan",
+			"title": "Lagu Bugis Pilihan 28",
+			"image": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.lagubugisoffline2022/Lagu_Bugis_Pilihan/tray.jpg",
+			"link_mp3": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.lagubugisoffline2022/Lagu_Bugis_Pilihan/Lagu_Bugis_Pilihan_28.mp3",
+			"duration": "304",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 123,
+			"name_category": "Lagu Bugis Pilihan",
+			"title": "Lagu Bugis Pilihan 29",
+			"image": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.lagubugisoffline2022/Lagu_Bugis_Pilihan/tray.jpg",
+			"link_mp3": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.lagubugisoffline2022/Lagu_Bugis_Pilihan/Lagu_Bugis_Pilihan_29.mp3",
+			"duration": "336",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 124,
+			"name_category": "Lagu Bugis Pilihan",
+			"title": "Lagu Bugis Pilihan 30",
+			"image": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.lagubugisoffline2022/Lagu_Bugis_Pilihan/tray.jpg",
+			"link_mp3": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.lagubugisoffline2022/Lagu_Bugis_Pilihan/Lagu_Bugis_Pilihan_30.mp3",
+			"duration": "269",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 125,
+			"name_category": "Lagu Bugis Pilihan",
+			"title": "Lagu Bugis Pilihan 31",
+			"image": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.lagubugisoffline2022/Lagu_Bugis_Pilihan/tray.jpg",
+			"link_mp3": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.lagubugisoffline2022/Lagu_Bugis_Pilihan/Lagu_Bugis_Pilihan_31.mp3",
+			"duration": "330",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 126,
+			"name_category": "Lagu Bugis Pilihan",
+			"title": "Lagu Bugis Pilihan 32",
+			"image": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.lagubugisoffline2022/Lagu_Bugis_Pilihan/tray.jpg",
+			"link_mp3": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.lagubugisoffline2022/Lagu_Bugis_Pilihan/Lagu_Bugis_Pilihan_32.mp3",
+			"duration": "260",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 127,
+			"name_category": "Lagu Bugis Viral",
+			"title": "Lagu Bugis Viral 1",
+			"image": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.lagubugisoffline2022/Lagu_Bugis_Viral/tray.jpg",
+			"link_mp3": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.lagubugisoffline2022/Lagu_Bugis_Viral/Lagu_Bugis_Viral_1.mp3",
+			"duration": "218",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 128,
+			"name_category": "Lagu Bugis Viral",
+			"title": "Lagu Bugis Viral 2",
+			"image": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.lagubugisoffline2022/Lagu_Bugis_Viral/tray.jpg",
+			"link_mp3": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.lagubugisoffline2022/Lagu_Bugis_Viral/Lagu_Bugis_Viral_2.mp3",
+			"duration": "259",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 129,
+			"name_category": "Lagu Bugis Viral",
+			"title": "Lagu Bugis Viral 3",
+			"image": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.lagubugisoffline2022/Lagu_Bugis_Viral/tray.jpg",
+			"link_mp3": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.lagubugisoffline2022/Lagu_Bugis_Viral/Lagu_Bugis_Viral_3.mp3",
+			"duration": "268",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 130,
+			"name_category": "Lagu Bugis Viral",
+			"title": "Lagu Bugis Viral 4",
+			"image": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.lagubugisoffline2022/Lagu_Bugis_Viral/tray.jpg",
+			"link_mp3": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.lagubugisoffline2022/Lagu_Bugis_Viral/Lagu_Bugis_Viral_4.mp3",
+			"duration": "304",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 131,
+			"name_category": "Lagu Bugis Viral",
+			"title": "Lagu Bugis Viral 5",
+			"image": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.lagubugisoffline2022/Lagu_Bugis_Viral/tray.jpg",
+			"link_mp3": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.lagubugisoffline2022/Lagu_Bugis_Viral/Lagu_Bugis_Viral_5.mp3",
+			"duration": "299",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 132,
+			"name_category": "Lagu Bugis Viral",
+			"title": "Lagu Bugis Viral 6",
+			"image": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.lagubugisoffline2022/Lagu_Bugis_Viral/tray.jpg",
+			"link_mp3": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.lagubugisoffline2022/Lagu_Bugis_Viral/Lagu_Bugis_Viral_6.mp3",
+			"duration": "265",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 133,
+			"name_category": "Lagu Bugis Viral",
+			"title": "Lagu Bugis Viral 7",
+			"image": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.lagubugisoffline2022/Lagu_Bugis_Viral/tray.jpg",
+			"link_mp3": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.lagubugisoffline2022/Lagu_Bugis_Viral/Lagu_Bugis_Viral_7.mp3",
+			"duration": "310",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 134,
+			"name_category": "Lagu Bugis Viral",
+			"title": "Lagu Bugis Viral 8",
+			"image": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.lagubugisoffline2022/Lagu_Bugis_Viral/tray.jpg",
+			"link_mp3": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.lagubugisoffline2022/Lagu_Bugis_Viral/Lagu_Bugis_Viral_8.mp3",
+			"duration": "318",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 135,
+			"name_category": "Lagu Bugis Viral",
+			"title": "Lagu Bugis Viral 9",
+			"image": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.lagubugisoffline2022/Lagu_Bugis_Viral/tray.jpg",
+			"link_mp3": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.lagubugisoffline2022/Lagu_Bugis_Viral/Lagu_Bugis_Viral_9.mp3",
+			"duration": "299",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 136,
+			"name_category": "Lagu Bugis Viral",
+			"title": "Lagu Bugis Viral 10",
+			"image": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.lagubugisoffline2022/Lagu_Bugis_Viral/tray.jpg",
+			"link_mp3": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.lagubugisoffline2022/Lagu_Bugis_Viral/Lagu_Bugis_Viral_10.mp3",
+			"duration": "268",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 137,
+			"name_category": "Lagu Bugis Viral",
+			"title": "Lagu Bugis Viral 11",
+			"image": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.lagubugisoffline2022/Lagu_Bugis_Viral/tray.jpg",
+			"link_mp3": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.lagubugisoffline2022/Lagu_Bugis_Viral/Lagu_Bugis_Viral_11.mp3",
+			"duration": "310",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 138,
+			"name_category": "Lagu Bugis Viral",
+			"title": "Lagu Bugis Viral 12",
+			"image": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.lagubugisoffline2022/Lagu_Bugis_Viral/tray.jpg",
+			"link_mp3": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.lagubugisoffline2022/Lagu_Bugis_Viral/Lagu_Bugis_Viral_12.mp3",
+			"duration": "331",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 139,
+			"name_category": "Lagu Bugis Viral",
+			"title": "Lagu Bugis Viral 13",
+			"image": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.lagubugisoffline2022/Lagu_Bugis_Viral/tray.jpg",
+			"link_mp3": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.lagubugisoffline2022/Lagu_Bugis_Viral/Lagu_Bugis_Viral_13.mp3",
+			"duration": "268",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 140,
+			"name_category": "Lagu Bugis Viral",
+			"title": "Lagu Bugis Viral 14",
+			"image": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.lagubugisoffline2022/Lagu_Bugis_Viral/tray.jpg",
+			"link_mp3": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.lagubugisoffline2022/Lagu_Bugis_Viral/Lagu_Bugis_Viral_14.mp3",
+			"duration": "386",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 141,
+			"name_category": "Lagu Bugis Viral",
+			"title": "Lagu Bugis Viral 15",
+			"image": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.lagubugisoffline2022/Lagu_Bugis_Viral/tray.jpg",
+			"link_mp3": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.lagubugisoffline2022/Lagu_Bugis_Viral/Lagu_Bugis_Viral_15.mp3",
+			"duration": "298",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 142,
+			"name_category": "Lagu Bugis Viral",
+			"title": "Lagu Bugis Viral 16",
+			"image": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.lagubugisoffline2022/Lagu_Bugis_Viral/tray.jpg",
+			"link_mp3": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.lagubugisoffline2022/Lagu_Bugis_Viral/Lagu_Bugis_Viral_16.mp3",
+			"duration": "295",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 143,
+			"name_category": "Lagu Bugis Viral",
+			"title": "Lagu Bugis Viral 17",
+			"image": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.lagubugisoffline2022/Lagu_Bugis_Viral/tray.jpg",
+			"link_mp3": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.lagubugisoffline2022/Lagu_Bugis_Viral/Lagu_Bugis_Viral_17.mp3",
+			"duration": "278",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 144,
+			"name_category": "Lagu Bugis Viral",
+			"title": "Lagu Bugis Viral 18",
+			"image": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.lagubugisoffline2022/Lagu_Bugis_Viral/tray.jpg",
+			"link_mp3": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.lagubugisoffline2022/Lagu_Bugis_Viral/Lagu_Bugis_Viral_18.mp3",
+			"duration": "319",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 145,
+			"name_category": "Lagu Bugis Viral",
+			"title": "Lagu Bugis Viral 19",
+			"image": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.lagubugisoffline2022/Lagu_Bugis_Viral/tray.jpg",
+			"link_mp3": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.lagubugisoffline2022/Lagu_Bugis_Viral/Lagu_Bugis_Viral_19.mp3",
+			"duration": "379",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 146,
+			"name_category": "Lagu Bugis Viral",
+			"title": "Lagu Bugis Viral 20",
+			"image": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.lagubugisoffline2022/Lagu_Bugis_Viral/tray.jpg",
+			"link_mp3": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.lagubugisoffline2022/Lagu_Bugis_Viral/Lagu_Bugis_Viral_20.mp3",
+			"duration": "285",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 147,
+			"name_category": "Lagu Bugis Viral",
+			"title": "Lagu Bugis Viral 21",
+			"image": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.lagubugisoffline2022/Lagu_Bugis_Viral/tray.jpg",
+			"link_mp3": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.lagubugisoffline2022/Lagu_Bugis_Viral/Lagu_Bugis_Viral_21.mp3",
+			"duration": "259",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 148,
+			"name_category": "Lagu Bugis Viral",
+			"title": "Lagu Bugis Viral 22",
+			"image": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.lagubugisoffline2022/Lagu_Bugis_Viral/tray.jpg",
+			"link_mp3": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.lagubugisoffline2022/Lagu_Bugis_Viral/Lagu_Bugis_Viral_22.mp3",
+			"duration": "242",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 149,
+			"name_category": "Lagu Bugis Viral",
+			"title": "Lagu Bugis Viral 23",
+			"image": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.lagubugisoffline2022/Lagu_Bugis_Viral/tray.jpg",
+			"link_mp3": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.lagubugisoffline2022/Lagu_Bugis_Viral/Lagu_Bugis_Viral_23.mp3",
+			"duration": "430",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 150,
+			"name_category": "Lagu Bugis Viral",
+			"title": "Lagu Bugis Viral 24",
+			"image": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.lagubugisoffline2022/Lagu_Bugis_Viral/tray.jpg",
+			"link_mp3": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.lagubugisoffline2022/Lagu_Bugis_Viral/Lagu_Bugis_Viral_24.mp3",
+			"duration": "279",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 151,
+			"name_category": "Lagu Bugis Viral",
+			"title": "Lagu Bugis Viral 25",
+			"image": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.lagubugisoffline2022/Lagu_Bugis_Viral/tray.jpg",
+			"link_mp3": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.lagubugisoffline2022/Lagu_Bugis_Viral/Lagu_Bugis_Viral_25.mp3",
+			"duration": "431",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 152,
+			"name_category": "Lagu Bugis Viral",
+			"title": "Lagu Bugis Viral 26",
+			"image": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.lagubugisoffline2022/Lagu_Bugis_Viral/tray.jpg",
+			"link_mp3": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.lagubugisoffline2022/Lagu_Bugis_Viral/Lagu_Bugis_Viral_26.mp3",
+			"duration": "301",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 153,
+			"name_category": "Lagu Bugis Viral",
+			"title": "Lagu Bugis Viral 27",
+			"image": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.lagubugisoffline2022/Lagu_Bugis_Viral/tray.jpg",
+			"link_mp3": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.lagubugisoffline2022/Lagu_Bugis_Viral/Lagu_Bugis_Viral_27.mp3",
+			"duration": "367",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 154,
+			"name_category": "Lagu Bugis Viral",
+			"title": "Lagu Bugis Viral 28",
+			"image": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.lagubugisoffline2022/Lagu_Bugis_Viral/tray.jpg",
+			"link_mp3": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.lagubugisoffline2022/Lagu_Bugis_Viral/Lagu_Bugis_Viral_28.mp3",
+			"duration": "320",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 155,
+			"name_category": "Lagu Bugis Viral",
+			"title": "Lagu Bugis Viral 29",
+			"image": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.lagubugisoffline2022/Lagu_Bugis_Viral/tray.jpg",
+			"link_mp3": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.lagubugisoffline2022/Lagu_Bugis_Viral/Lagu_Bugis_Viral_29.mp3",
+			"duration": "335",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 156,
+			"name_category": "Lagu Bugis Viral",
+			"title": "Lagu Bugis Viral 30",
+			"image": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.lagubugisoffline2022/Lagu_Bugis_Viral/tray.jpg",
+			"link_mp3": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.lagubugisoffline2022/Lagu_Bugis_Viral/Lagu_Bugis_Viral_30.mp3",
+			"duration": "251",
+			"lyrics": "Tidak Ada Lirik"
+		}
+	]
+
+
+
+}
