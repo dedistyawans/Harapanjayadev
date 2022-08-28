@@ -1,0 +1,1067 @@
+{
+
+	"ads": {
+		"live_version_code": -1,
+		"init_ads_mode": "single",
+
+		"interstitial_type": "lap",
+		"interval_las": 5,
+
+		"timeout_load": 18,
+		"rate_dialog_count": 4,
+
+		"splash_ad": "auto",
+		"banner_ad": "auto",
+		"banner_detail_ad": "auto",
+		"mrec_ad": "auto",
+		"inter_ad": "auto",
+
+		"splash_ad_identifier": "identifier_1",
+		"inter_ad_identifier": "identifier_2",
+		"banner_ad_identifier": "identifier_3",
+		"banner_detail_ad_identifier": "identifier_4",
+		"mrec_ad_identifier": "identifier_5",
+
+		"interval_awal": 5,
+
+		"kemungkinan_smatoo": 0,
+		"minimum_time_smatoo": 120,
+		"interval_smatoo": 5,
+		"smatoo_publisher_id": "-",
+		"smatoo_banner": "-",
+		"smatoo_mrec": "-",
+		"smatoo_inter": "-",
+		"smatoo_init_wait": true,
+		"smatoo_banner_on" : true,
+		"smatoo_detail_banner_on" : true,
+		"smatoo_mrec_on" : true,
+		"smatoo_splash_on" : true,
+		"smatoo_inter_on" : true,
+		"smatoo_must_live_playstore" : true,
+
+		"kemungkinan_appodeal": 0,
+		"minimum_time_appodeal": 120,
+		"interval_appodeal": 5,
+		"appodeal_app_key": "-",
+		"appodeal_init_wait": true,
+		"appodeal_banner_on" : true,
+		"appodeal_detail_banner_on" : true,
+		"appodeal_mrec_on" : true,
+		"appodeal_splash_on" : true,
+		"appodeal_inter_on" : true,
+		"appodeal_must_live_playstore" : true,
+
+		"kemungkinan_vungle": 0,
+		"minimum_time_vungle": 120,
+		"interval_vungle": 5,
+		"vungle_app_id": "-",
+		"vungle_banner": "-",
+		"vungle_mrec": "-",
+		"vungle_inter": "-",
+		"vungle_init_wait": true,
+		"vungle_banner_on" : true,
+		"vungle_detail_banner_on" : true,
+		"vungle_mrec_on" : true,
+		"vungle_splash_on" : true,
+		"vungle_inter_on" : true,
+		"vungle_must_live_playstore" : true,
+
+		"kemungkinan_iron": 0,
+		"minimum_time_iron": 120,
+		"interval_iron": 5,
+		"iron_appkey": "-",
+		"iron_init_wait": true,
+		"iron_banner_on" : false,
+		"iron_detail_banner_on" : false,
+		"iron_mrec_on" : false,
+		"iron_splash_on" : true,
+		"iron_inter_on" : true,
+		"iron_must_live_playstore" : true,
+
+		"kemungkinan_fan": 0,
+		"minimum_time_fan": 120,
+		"interval_fan": 5,
+		"fan_banner": "-",
+		"fan_mrec": "-",
+		"fan_inter": "-",
+		"fan_init_wait": true,
+		"fan_banner_on" : true,
+		"fan_detail_banner_on" : true,
+		"fan_mrec_on" : true,
+		"fan_splash_on" : true,
+		"fan_inter_on" : true,
+		"fan_must_live_playstore" : true,
+
+		"kemungkinan_unity": 0,
+		"minimum_time_unity": 120,
+		"interval_unity": 5,
+		"unity_game_id": "-",
+		"unity_banner": "-",
+		"unity_inter": "-",
+		"unity_init_wait": true,
+		"unity_banner_on" : true,
+		"unity_detail_banner_on" : true,
+		"unity_mrec_on" : false,
+		"unity_splash_on" : true,
+		"unity_inter_on" : true,
+		"unity_must_live_playstore" : true,
+
+		"kemungkinan_admob": 0,
+		"minimum_time_admob": 300,
+		"interval_admob": 5,
+		"admob_open": "-",
+		"admob_banner": "-",
+		"admob_inter": "-",
+		"admob_init_wait": true,
+		"admob_banner_on" : true,
+		"admob_detail_banner_on" : true,
+		"admob_mrec_on" : true,
+		"admob_splash_on" : true,
+		"admob_inter_on" : true,
+		"admob_must_live_playstore" : true,
+
+		"kemungkinan_max": 0,
+		"minimum_time_max": 120,
+		"interval_max": 5,
+		"max_banner": "-",
+		"max_mrec": "-",
+		"max_inter": "-",
+		"max_init_wait": true,
+		"max_banner_on" : true,
+		"max_detail_banner_on" : true,
+		"max_mrec_on" : true,
+		"max_splash_on" : true,
+		"max_inter_on" : true,
+		"max_must_live_playstore" : true,
+
+		"kemungkinan_startapp": 1,
+		"minimum_time_startapp": 0,
+		"interval_startapp": 5,
+		"startapp_id": "207535332",
+		"startapp_init_wait": true,
+		"startapp_banner_on" : true,
+		"startapp_detail_banner_on" : true,
+		"startapp_mrec_on" : true,
+		"startapp_splash_on" : true,
+		"startapp_inter_on" : true,
+		"startapp_must_live_playstore" : true,
+
+		"app_live_store": "auto",
+		"shopee_aff": "null"
+	},
+	"Categories": [
+		{
+			"id": 1,
+			"name_category": "DJ ojo dibandingke Remix Offline",
+			"image": "file:///android_asset/content/DJ_ojo_dibandingke_Remix_Offline/tray.jpg"
+		},
+		{
+			"id": 2,
+			"name_category": "Denny Caknan Ojo Dibandingke",
+			"image": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.djojodibandingkeviraloffline/Denny_Caknan_Ojo_Dibandingke/tray.jpg"
+		},
+		{
+			"id": 3,
+			"name_category": "Farel Prayoga Ojo Dibandingke",
+			"image": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.djojodibandingkeviraloffline/Farel_Prayoga_Ojo_Dibandingke/tray.jpg"
+		},
+		{
+			"id": 4,
+			"name_category": "Ojo dibandingke yeni inka mp3",
+			"image": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.djojodibandingkeviraloffline/Ojo_dibandingke_yeni_inka_mp3/tray.jpg"
+		}
+	],
+	"Data": [
+		{
+			"id": 1,
+			"name_category": "DJ ojo dibandingke Remix Offline",
+			"title": "DJ ojo dibandingke Remix Offline 1",
+			"image": "file:///android_asset/content/DJ_ojo_dibandingke_Remix_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_ojo_dibandingke_Remix_Offline/DJ_ojo_dibandingke_Remix_Offline_1.mp3",
+			"duration": "328",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 2,
+			"name_category": "DJ ojo dibandingke Remix Offline",
+			"title": "DJ ojo dibandingke Remix Offline 2",
+			"image": "file:///android_asset/content/DJ_ojo_dibandingke_Remix_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_ojo_dibandingke_Remix_Offline/DJ_ojo_dibandingke_Remix_Offline_2.mp3",
+			"duration": "204",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 3,
+			"name_category": "DJ ojo dibandingke Remix Offline",
+			"title": "DJ ojo dibandingke Remix Offline 3",
+			"image": "file:///android_asset/content/DJ_ojo_dibandingke_Remix_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_ojo_dibandingke_Remix_Offline/DJ_ojo_dibandingke_Remix_Offline_3.mp3",
+			"duration": "234",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 4,
+			"name_category": "DJ ojo dibandingke Remix Offline",
+			"title": "DJ ojo dibandingke Remix Offline 4",
+			"image": "file:///android_asset/content/DJ_ojo_dibandingke_Remix_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_ojo_dibandingke_Remix_Offline/DJ_ojo_dibandingke_Remix_Offline_4.mp3",
+			"duration": "303",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 5,
+			"name_category": "DJ ojo dibandingke Remix Offline",
+			"title": "DJ ojo dibandingke Remix Offline 5",
+			"image": "file:///android_asset/content/DJ_ojo_dibandingke_Remix_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_ojo_dibandingke_Remix_Offline/DJ_ojo_dibandingke_Remix_Offline_5.mp3",
+			"duration": "260",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 6,
+			"name_category": "DJ ojo dibandingke Remix Offline",
+			"title": "DJ ojo dibandingke Remix Offline 6",
+			"image": "file:///android_asset/content/DJ_ojo_dibandingke_Remix_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_ojo_dibandingke_Remix_Offline/DJ_ojo_dibandingke_Remix_Offline_6.mp3",
+			"duration": "273",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 7,
+			"name_category": "DJ ojo dibandingke Remix Offline",
+			"title": "DJ ojo dibandingke Remix Offline 7",
+			"image": "file:///android_asset/content/DJ_ojo_dibandingke_Remix_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_ojo_dibandingke_Remix_Offline/DJ_ojo_dibandingke_Remix_Offline_7.mp3",
+			"duration": "300",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 8,
+			"name_category": "DJ ojo dibandingke Remix Offline",
+			"title": "DJ ojo dibandingke Remix Offline 8",
+			"image": "file:///android_asset/content/DJ_ojo_dibandingke_Remix_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_ojo_dibandingke_Remix_Offline/DJ_ojo_dibandingke_Remix_Offline_8.mp3",
+			"duration": "308",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 9,
+			"name_category": "DJ ojo dibandingke Remix Offline",
+			"title": "DJ ojo dibandingke Remix Offline 9",
+			"image": "file:///android_asset/content/DJ_ojo_dibandingke_Remix_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_ojo_dibandingke_Remix_Offline/DJ_ojo_dibandingke_Remix_Offline_9.mp3",
+			"duration": "311",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 10,
+			"name_category": "DJ ojo dibandingke Remix Offline",
+			"title": "DJ ojo dibandingke Remix Offline 10",
+			"image": "file:///android_asset/content/DJ_ojo_dibandingke_Remix_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_ojo_dibandingke_Remix_Offline/DJ_ojo_dibandingke_Remix_Offline_10.mp3",
+			"duration": "380",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 11,
+			"name_category": "DJ ojo dibandingke Remix Offline",
+			"title": "DJ ojo dibandingke Remix Offline 11",
+			"image": "file:///android_asset/content/DJ_ojo_dibandingke_Remix_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_ojo_dibandingke_Remix_Offline/DJ_ojo_dibandingke_Remix_Offline_11.mp3",
+			"duration": "255",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 12,
+			"name_category": "DJ ojo dibandingke Remix Offline",
+			"title": "DJ ojo dibandingke Remix Offline 12",
+			"image": "file:///android_asset/content/DJ_ojo_dibandingke_Remix_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_ojo_dibandingke_Remix_Offline/DJ_ojo_dibandingke_Remix_Offline_12.mp3",
+			"duration": "288",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 13,
+			"name_category": "DJ ojo dibandingke Remix Offline",
+			"title": "DJ ojo dibandingke Remix Offline 13",
+			"image": "file:///android_asset/content/DJ_ojo_dibandingke_Remix_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_ojo_dibandingke_Remix_Offline/DJ_ojo_dibandingke_Remix_Offline_13.mp3",
+			"duration": "288",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 14,
+			"name_category": "DJ ojo dibandingke Remix Offline",
+			"title": "DJ ojo dibandingke Remix Offline 14",
+			"image": "file:///android_asset/content/DJ_ojo_dibandingke_Remix_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_ojo_dibandingke_Remix_Offline/DJ_ojo_dibandingke_Remix_Offline_14.mp3",
+			"duration": "237",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 15,
+			"name_category": "DJ ojo dibandingke Remix Offline",
+			"title": "DJ ojo dibandingke Remix Offline 15",
+			"image": "file:///android_asset/content/DJ_ojo_dibandingke_Remix_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_ojo_dibandingke_Remix_Offline/DJ_ojo_dibandingke_Remix_Offline_15.mp3",
+			"duration": "258",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 16,
+			"name_category": "DJ ojo dibandingke Remix Offline",
+			"title": "DJ ojo dibandingke Remix Offline 16",
+			"image": "file:///android_asset/content/DJ_ojo_dibandingke_Remix_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_ojo_dibandingke_Remix_Offline/DJ_ojo_dibandingke_Remix_Offline_16.mp3",
+			"duration": "267",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 17,
+			"name_category": "DJ ojo dibandingke Remix Offline",
+			"title": "DJ ojo dibandingke Remix Offline 17",
+			"image": "file:///android_asset/content/DJ_ojo_dibandingke_Remix_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_ojo_dibandingke_Remix_Offline/DJ_ojo_dibandingke_Remix_Offline_17.mp3",
+			"duration": "206",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 18,
+			"name_category": "DJ ojo dibandingke Remix Offline",
+			"title": "DJ ojo dibandingke Remix Offline 18",
+			"image": "file:///android_asset/content/DJ_ojo_dibandingke_Remix_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_ojo_dibandingke_Remix_Offline/DJ_ojo_dibandingke_Remix_Offline_18.mp3",
+			"duration": "184",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 19,
+			"name_category": "DJ ojo dibandingke Remix Offline",
+			"title": "DJ ojo dibandingke Remix Offline 19",
+			"image": "file:///android_asset/content/DJ_ojo_dibandingke_Remix_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_ojo_dibandingke_Remix_Offline/DJ_ojo_dibandingke_Remix_Offline_19.mp3",
+			"duration": "259",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 20,
+			"name_category": "DJ ojo dibandingke Remix Offline",
+			"title": "DJ ojo dibandingke Remix Offline 20",
+			"image": "file:///android_asset/content/DJ_ojo_dibandingke_Remix_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_ojo_dibandingke_Remix_Offline/DJ_ojo_dibandingke_Remix_Offline_20.mp3",
+			"duration": "284",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 21,
+			"name_category": "DJ ojo dibandingke Remix Offline",
+			"title": "DJ ojo dibandingke Remix Offline 21",
+			"image": "file:///android_asset/content/DJ_ojo_dibandingke_Remix_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_ojo_dibandingke_Remix_Offline/DJ_ojo_dibandingke_Remix_Offline_21.mp3",
+			"duration": "278",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 22,
+			"name_category": "DJ ojo dibandingke Remix Offline",
+			"title": "DJ ojo dibandingke Remix Offline 22",
+			"image": "file:///android_asset/content/DJ_ojo_dibandingke_Remix_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_ojo_dibandingke_Remix_Offline/DJ_ojo_dibandingke_Remix_Offline_22.mp3",
+			"duration": "258",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 23,
+			"name_category": "DJ ojo dibandingke Remix Offline",
+			"title": "DJ ojo dibandingke Remix Offline 23",
+			"image": "file:///android_asset/content/DJ_ojo_dibandingke_Remix_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_ojo_dibandingke_Remix_Offline/DJ_ojo_dibandingke_Remix_Offline_23.mp3",
+			"duration": "109",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 24,
+			"name_category": "DJ ojo dibandingke Remix Offline",
+			"title": "DJ ojo dibandingke Remix Offline 24",
+			"image": "file:///android_asset/content/DJ_ojo_dibandingke_Remix_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_ojo_dibandingke_Remix_Offline/DJ_ojo_dibandingke_Remix_Offline_24.mp3",
+			"duration": "238",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 25,
+			"name_category": "DJ ojo dibandingke Remix Offline",
+			"title": "DJ ojo dibandingke Remix Offline 25",
+			"image": "file:///android_asset/content/DJ_ojo_dibandingke_Remix_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_ojo_dibandingke_Remix_Offline/DJ_ojo_dibandingke_Remix_Offline_25.mp3",
+			"duration": "271",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 26,
+			"name_category": "DJ ojo dibandingke Remix Offline",
+			"title": "DJ ojo dibandingke Remix Offline 26",
+			"image": "file:///android_asset/content/DJ_ojo_dibandingke_Remix_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_ojo_dibandingke_Remix_Offline/DJ_ojo_dibandingke_Remix_Offline_26.mp3",
+			"duration": "224",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 27,
+			"name_category": "DJ ojo dibandingke Remix Offline",
+			"title": "DJ ojo dibandingke Remix Offline 27",
+			"image": "file:///android_asset/content/DJ_ojo_dibandingke_Remix_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_ojo_dibandingke_Remix_Offline/DJ_ojo_dibandingke_Remix_Offline_27.mp3",
+			"duration": "198",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 28,
+			"name_category": "DJ ojo dibandingke Remix Offline",
+			"title": "DJ ojo dibandingke Remix Offline 28",
+			"image": "file:///android_asset/content/DJ_ojo_dibandingke_Remix_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_ojo_dibandingke_Remix_Offline/DJ_ojo_dibandingke_Remix_Offline_28.mp3",
+			"duration": "275",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 29,
+			"name_category": "DJ ojo dibandingke Remix Offline",
+			"title": "DJ ojo dibandingke Remix Offline 29",
+			"image": "file:///android_asset/content/DJ_ojo_dibandingke_Remix_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_ojo_dibandingke_Remix_Offline/DJ_ojo_dibandingke_Remix_Offline_29.mp3",
+			"duration": "291",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 30,
+			"name_category": "DJ ojo dibandingke Remix Offline",
+			"title": "DJ ojo dibandingke Remix Offline 30",
+			"image": "file:///android_asset/content/DJ_ojo_dibandingke_Remix_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_ojo_dibandingke_Remix_Offline/DJ_ojo_dibandingke_Remix_Offline_30.mp3",
+			"duration": "274",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 31,
+			"name_category": "DJ ojo dibandingke Remix Offline",
+			"title": "DJ ojo dibandingke Remix Offline 31",
+			"image": "file:///android_asset/content/DJ_ojo_dibandingke_Remix_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_ojo_dibandingke_Remix_Offline/DJ_ojo_dibandingke_Remix_Offline_31.mp3",
+			"duration": "30",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 32,
+			"name_category": "DJ ojo dibandingke Remix Offline",
+			"title": "DJ ojo dibandingke Remix Offline 32",
+			"image": "file:///android_asset/content/DJ_ojo_dibandingke_Remix_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_ojo_dibandingke_Remix_Offline/DJ_ojo_dibandingke_Remix_Offline_32.mp3",
+			"duration": "248",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 33,
+			"name_category": "DJ ojo dibandingke Remix Offline",
+			"title": "DJ ojo dibandingke Remix Offline 33",
+			"image": "file:///android_asset/content/DJ_ojo_dibandingke_Remix_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_ojo_dibandingke_Remix_Offline/DJ_ojo_dibandingke_Remix_Offline_33.mp3",
+			"duration": "261",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 34,
+			"name_category": "DJ ojo dibandingke Remix Offline",
+			"title": "DJ ojo dibandingke Remix Offline 34",
+			"image": "file:///android_asset/content/DJ_ojo_dibandingke_Remix_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_ojo_dibandingke_Remix_Offline/DJ_ojo_dibandingke_Remix_Offline_34.mp3",
+			"duration": "293",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 35,
+			"name_category": "Denny Caknan Ojo Dibandingke",
+			"title": "Denny Caknan Ojo Dibandingke 1",
+			"image": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.djojodibandingkeviraloffline/Denny_Caknan_Ojo_Dibandingke/tray.jpg",
+			"link_mp3": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.djojodibandingkeviraloffline/Denny_Caknan_Ojo_Dibandingke/Denny_Caknan_Ojo_Dibandingke_1.mp3",
+			"duration": "351",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 36,
+			"name_category": "Denny Caknan Ojo Dibandingke",
+			"title": "Denny Caknan Ojo Dibandingke 2",
+			"image": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.djojodibandingkeviraloffline/Denny_Caknan_Ojo_Dibandingke/tray.jpg",
+			"link_mp3": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.djojodibandingkeviraloffline/Denny_Caknan_Ojo_Dibandingke/Denny_Caknan_Ojo_Dibandingke_2.mp3",
+			"duration": "394",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 37,
+			"name_category": "Denny Caknan Ojo Dibandingke",
+			"title": "Denny Caknan Ojo Dibandingke 3",
+			"image": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.djojodibandingkeviraloffline/Denny_Caknan_Ojo_Dibandingke/tray.jpg",
+			"link_mp3": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.djojodibandingkeviraloffline/Denny_Caknan_Ojo_Dibandingke/Denny_Caknan_Ojo_Dibandingke_3.mp3",
+			"duration": "366",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 38,
+			"name_category": "Denny Caknan Ojo Dibandingke",
+			"title": "Denny Caknan Ojo Dibandingke 4",
+			"image": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.djojodibandingkeviraloffline/Denny_Caknan_Ojo_Dibandingke/tray.jpg",
+			"link_mp3": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.djojodibandingkeviraloffline/Denny_Caknan_Ojo_Dibandingke/Denny_Caknan_Ojo_Dibandingke_4.mp3",
+			"duration": "322",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 39,
+			"name_category": "Denny Caknan Ojo Dibandingke",
+			"title": "Denny Caknan Ojo Dibandingke 5",
+			"image": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.djojodibandingkeviraloffline/Denny_Caknan_Ojo_Dibandingke/tray.jpg",
+			"link_mp3": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.djojodibandingkeviraloffline/Denny_Caknan_Ojo_Dibandingke/Denny_Caknan_Ojo_Dibandingke_5.mp3",
+			"duration": "269",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 40,
+			"name_category": "Farel Prayoga Ojo Dibandingke",
+			"title": "Farel Prayoga Ojo Dibandingke 1",
+			"image": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.djojodibandingkeviraloffline/Farel_Prayoga_Ojo_Dibandingke/tray.jpg",
+			"link_mp3": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.djojodibandingkeviraloffline/Farel_Prayoga_Ojo_Dibandingke/Farel_Prayoga_Ojo_Dibandingke_1.mp3",
+			"duration": "349",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 41,
+			"name_category": "Farel Prayoga Ojo Dibandingke",
+			"title": "Farel Prayoga Ojo Dibandingke 2",
+			"image": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.djojodibandingkeviraloffline/Farel_Prayoga_Ojo_Dibandingke/tray.jpg",
+			"link_mp3": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.djojodibandingkeviraloffline/Farel_Prayoga_Ojo_Dibandingke/Farel_Prayoga_Ojo_Dibandingke_2.mp3",
+			"duration": "368",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 42,
+			"name_category": "Farel Prayoga Ojo Dibandingke",
+			"title": "Farel Prayoga Ojo Dibandingke 3",
+			"image": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.djojodibandingkeviraloffline/Farel_Prayoga_Ojo_Dibandingke/tray.jpg",
+			"link_mp3": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.djojodibandingkeviraloffline/Farel_Prayoga_Ojo_Dibandingke/Farel_Prayoga_Ojo_Dibandingke_3.mp3",
+			"duration": "323",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 43,
+			"name_category": "Farel Prayoga Ojo Dibandingke",
+			"title": "Farel Prayoga Ojo Dibandingke 4",
+			"image": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.djojodibandingkeviraloffline/Farel_Prayoga_Ojo_Dibandingke/tray.jpg",
+			"link_mp3": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.djojodibandingkeviraloffline/Farel_Prayoga_Ojo_Dibandingke/Farel_Prayoga_Ojo_Dibandingke_4.mp3",
+			"duration": "353",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 44,
+			"name_category": "Farel Prayoga Ojo Dibandingke",
+			"title": "Farel Prayoga Ojo Dibandingke 5",
+			"image": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.djojodibandingkeviraloffline/Farel_Prayoga_Ojo_Dibandingke/tray.jpg",
+			"link_mp3": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.djojodibandingkeviraloffline/Farel_Prayoga_Ojo_Dibandingke/Farel_Prayoga_Ojo_Dibandingke_5.mp3",
+			"duration": "274",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 45,
+			"name_category": "Farel Prayoga Ojo Dibandingke",
+			"title": "Farel Prayoga Ojo Dibandingke 6",
+			"image": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.djojodibandingkeviraloffline/Farel_Prayoga_Ojo_Dibandingke/tray.jpg",
+			"link_mp3": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.djojodibandingkeviraloffline/Farel_Prayoga_Ojo_Dibandingke/Farel_Prayoga_Ojo_Dibandingke_6.mp3",
+			"duration": "265",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 46,
+			"name_category": "Farel Prayoga Ojo Dibandingke",
+			"title": "Farel Prayoga Ojo Dibandingke 7",
+			"image": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.djojodibandingkeviraloffline/Farel_Prayoga_Ojo_Dibandingke/tray.jpg",
+			"link_mp3": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.djojodibandingkeviraloffline/Farel_Prayoga_Ojo_Dibandingke/Farel_Prayoga_Ojo_Dibandingke_7.mp3",
+			"duration": "322",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 47,
+			"name_category": "Farel Prayoga Ojo Dibandingke",
+			"title": "Farel Prayoga Ojo Dibandingke 8",
+			"image": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.djojodibandingkeviraloffline/Farel_Prayoga_Ojo_Dibandingke/tray.jpg",
+			"link_mp3": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.djojodibandingkeviraloffline/Farel_Prayoga_Ojo_Dibandingke/Farel_Prayoga_Ojo_Dibandingke_8.mp3",
+			"duration": "485",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 48,
+			"name_category": "Farel Prayoga Ojo Dibandingke",
+			"title": "Farel Prayoga Ojo Dibandingke 9",
+			"image": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.djojodibandingkeviraloffline/Farel_Prayoga_Ojo_Dibandingke/tray.jpg",
+			"link_mp3": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.djojodibandingkeviraloffline/Farel_Prayoga_Ojo_Dibandingke/Farel_Prayoga_Ojo_Dibandingke_9.mp3",
+			"duration": "279",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 49,
+			"name_category": "Farel Prayoga Ojo Dibandingke",
+			"title": "Farel Prayoga Ojo Dibandingke 10",
+			"image": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.djojodibandingkeviraloffline/Farel_Prayoga_Ojo_Dibandingke/tray.jpg",
+			"link_mp3": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.djojodibandingkeviraloffline/Farel_Prayoga_Ojo_Dibandingke/Farel_Prayoga_Ojo_Dibandingke_10.mp3",
+			"duration": "235",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 50,
+			"name_category": "Farel Prayoga Ojo Dibandingke",
+			"title": "Farel Prayoga Ojo Dibandingke 11",
+			"image": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.djojodibandingkeviraloffline/Farel_Prayoga_Ojo_Dibandingke/tray.jpg",
+			"link_mp3": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.djojodibandingkeviraloffline/Farel_Prayoga_Ojo_Dibandingke/Farel_Prayoga_Ojo_Dibandingke_11.mp3",
+			"duration": "319",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 51,
+			"name_category": "Farel Prayoga Ojo Dibandingke",
+			"title": "Farel Prayoga Ojo Dibandingke 12",
+			"image": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.djojodibandingkeviraloffline/Farel_Prayoga_Ojo_Dibandingke/tray.jpg",
+			"link_mp3": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.djojodibandingkeviraloffline/Farel_Prayoga_Ojo_Dibandingke/Farel_Prayoga_Ojo_Dibandingke_12.mp3",
+			"duration": "273",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 52,
+			"name_category": "Farel Prayoga Ojo Dibandingke",
+			"title": "Farel Prayoga Ojo Dibandingke 13",
+			"image": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.djojodibandingkeviraloffline/Farel_Prayoga_Ojo_Dibandingke/tray.jpg",
+			"link_mp3": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.djojodibandingkeviraloffline/Farel_Prayoga_Ojo_Dibandingke/Farel_Prayoga_Ojo_Dibandingke_13.mp3",
+			"duration": "342",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 53,
+			"name_category": "Farel Prayoga Ojo Dibandingke",
+			"title": "Farel Prayoga Ojo Dibandingke 14",
+			"image": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.djojodibandingkeviraloffline/Farel_Prayoga_Ojo_Dibandingke/tray.jpg",
+			"link_mp3": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.djojodibandingkeviraloffline/Farel_Prayoga_Ojo_Dibandingke/Farel_Prayoga_Ojo_Dibandingke_14.mp3",
+			"duration": "371",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 54,
+			"name_category": "Farel Prayoga Ojo Dibandingke",
+			"title": "Farel Prayoga Ojo Dibandingke 15",
+			"image": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.djojodibandingkeviraloffline/Farel_Prayoga_Ojo_Dibandingke/tray.jpg",
+			"link_mp3": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.djojodibandingkeviraloffline/Farel_Prayoga_Ojo_Dibandingke/Farel_Prayoga_Ojo_Dibandingke_15.mp3",
+			"duration": "322",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 55,
+			"name_category": "Farel Prayoga Ojo Dibandingke",
+			"title": "Farel Prayoga Ojo Dibandingke 16",
+			"image": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.djojodibandingkeviraloffline/Farel_Prayoga_Ojo_Dibandingke/tray.jpg",
+			"link_mp3": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.djojodibandingkeviraloffline/Farel_Prayoga_Ojo_Dibandingke/Farel_Prayoga_Ojo_Dibandingke_16.mp3",
+			"duration": "298",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 56,
+			"name_category": "Farel Prayoga Ojo Dibandingke",
+			"title": "Farel Prayoga Ojo Dibandingke 17",
+			"image": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.djojodibandingkeviraloffline/Farel_Prayoga_Ojo_Dibandingke/tray.jpg",
+			"link_mp3": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.djojodibandingkeviraloffline/Farel_Prayoga_Ojo_Dibandingke/Farel_Prayoga_Ojo_Dibandingke_17.mp3",
+			"duration": "292",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 57,
+			"name_category": "Farel Prayoga Ojo Dibandingke",
+			"title": "Farel Prayoga Ojo Dibandingke 18",
+			"image": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.djojodibandingkeviraloffline/Farel_Prayoga_Ojo_Dibandingke/tray.jpg",
+			"link_mp3": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.djojodibandingkeviraloffline/Farel_Prayoga_Ojo_Dibandingke/Farel_Prayoga_Ojo_Dibandingke_18.mp3",
+			"duration": "264",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 58,
+			"name_category": "Farel Prayoga Ojo Dibandingke",
+			"title": "Farel Prayoga Ojo Dibandingke 19",
+			"image": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.djojodibandingkeviraloffline/Farel_Prayoga_Ojo_Dibandingke/tray.jpg",
+			"link_mp3": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.djojodibandingkeviraloffline/Farel_Prayoga_Ojo_Dibandingke/Farel_Prayoga_Ojo_Dibandingke_19.mp3",
+			"duration": "304",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 59,
+			"name_category": "Farel Prayoga Ojo Dibandingke",
+			"title": "Farel Prayoga Ojo Dibandingke 20",
+			"image": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.djojodibandingkeviraloffline/Farel_Prayoga_Ojo_Dibandingke/tray.jpg",
+			"link_mp3": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.djojodibandingkeviraloffline/Farel_Prayoga_Ojo_Dibandingke/Farel_Prayoga_Ojo_Dibandingke_20.mp3",
+			"duration": "313",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 60,
+			"name_category": "Farel Prayoga Ojo Dibandingke",
+			"title": "Farel Prayoga Ojo Dibandingke 21",
+			"image": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.djojodibandingkeviraloffline/Farel_Prayoga_Ojo_Dibandingke/tray.jpg",
+			"link_mp3": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.djojodibandingkeviraloffline/Farel_Prayoga_Ojo_Dibandingke/Farel_Prayoga_Ojo_Dibandingke_21.mp3",
+			"duration": "256",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 61,
+			"name_category": "Farel Prayoga Ojo Dibandingke",
+			"title": "Farel Prayoga Ojo Dibandingke 22",
+			"image": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.djojodibandingkeviraloffline/Farel_Prayoga_Ojo_Dibandingke/tray.jpg",
+			"link_mp3": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.djojodibandingkeviraloffline/Farel_Prayoga_Ojo_Dibandingke/Farel_Prayoga_Ojo_Dibandingke_22.mp3",
+			"duration": "410",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 62,
+			"name_category": "Farel Prayoga Ojo Dibandingke",
+			"title": "Farel Prayoga Ojo Dibandingke 23",
+			"image": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.djojodibandingkeviraloffline/Farel_Prayoga_Ojo_Dibandingke/tray.jpg",
+			"link_mp3": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.djojodibandingkeviraloffline/Farel_Prayoga_Ojo_Dibandingke/Farel_Prayoga_Ojo_Dibandingke_23.mp3",
+			"duration": "362",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 63,
+			"name_category": "Farel Prayoga Ojo Dibandingke",
+			"title": "Farel Prayoga Ojo Dibandingke 24",
+			"image": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.djojodibandingkeviraloffline/Farel_Prayoga_Ojo_Dibandingke/tray.jpg",
+			"link_mp3": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.djojodibandingkeviraloffline/Farel_Prayoga_Ojo_Dibandingke/Farel_Prayoga_Ojo_Dibandingke_24.mp3",
+			"duration": "339",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 64,
+			"name_category": "Farel Prayoga Ojo Dibandingke",
+			"title": "Farel Prayoga Ojo Dibandingke 25",
+			"image": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.djojodibandingkeviraloffline/Farel_Prayoga_Ojo_Dibandingke/tray.jpg",
+			"link_mp3": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.djojodibandingkeviraloffline/Farel_Prayoga_Ojo_Dibandingke/Farel_Prayoga_Ojo_Dibandingke_25.mp3",
+			"duration": "279",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 65,
+			"name_category": "Farel Prayoga Ojo Dibandingke",
+			"title": "Farel Prayoga Ojo Dibandingke 26",
+			"image": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.djojodibandingkeviraloffline/Farel_Prayoga_Ojo_Dibandingke/tray.jpg",
+			"link_mp3": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.djojodibandingkeviraloffline/Farel_Prayoga_Ojo_Dibandingke/Farel_Prayoga_Ojo_Dibandingke_26.mp3",
+			"duration": "259",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 66,
+			"name_category": "Farel Prayoga Ojo Dibandingke",
+			"title": "Farel Prayoga Ojo Dibandingke 27",
+			"image": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.djojodibandingkeviraloffline/Farel_Prayoga_Ojo_Dibandingke/tray.jpg",
+			"link_mp3": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.djojodibandingkeviraloffline/Farel_Prayoga_Ojo_Dibandingke/Farel_Prayoga_Ojo_Dibandingke_27.mp3",
+			"duration": "360",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 67,
+			"name_category": "Farel Prayoga Ojo Dibandingke",
+			"title": "Farel Prayoga Ojo Dibandingke 28",
+			"image": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.djojodibandingkeviraloffline/Farel_Prayoga_Ojo_Dibandingke/tray.jpg",
+			"link_mp3": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.djojodibandingkeviraloffline/Farel_Prayoga_Ojo_Dibandingke/Farel_Prayoga_Ojo_Dibandingke_28.mp3",
+			"duration": "310",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 68,
+			"name_category": "Farel Prayoga Ojo Dibandingke",
+			"title": "Farel Prayoga Ojo Dibandingke 29",
+			"image": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.djojodibandingkeviraloffline/Farel_Prayoga_Ojo_Dibandingke/tray.jpg",
+			"link_mp3": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.djojodibandingkeviraloffline/Farel_Prayoga_Ojo_Dibandingke/Farel_Prayoga_Ojo_Dibandingke_29.mp3",
+			"duration": "314",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 69,
+			"name_category": "Farel Prayoga Ojo Dibandingke",
+			"title": "Farel Prayoga Ojo Dibandingke 30",
+			"image": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.djojodibandingkeviraloffline/Farel_Prayoga_Ojo_Dibandingke/tray.jpg",
+			"link_mp3": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.djojodibandingkeviraloffline/Farel_Prayoga_Ojo_Dibandingke/Farel_Prayoga_Ojo_Dibandingke_30.mp3",
+			"duration": "262",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 70,
+			"name_category": "Ojo dibandingke yeni inka mp3",
+			"title": "Joko Tingkir Ngombe Dawet",
+			"image": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.djojodibandingkeviraloffline/Ojo_dibandingke_yeni_inka_mp3/tray.jpg",
+			"link_mp3": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.djojodibandingkeviraloffline/Ojo_dibandingke_yeni_inka_mp3/Ojo_dibandingke_yeni_inka_mp3_1.mp3",
+			"duration": "272",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 71,
+			"name_category": "Ojo dibandingke yeni inka mp3",
+			"title": "Hutang Pok Amai Amai",
+			"image": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.djojodibandingkeviraloffline/Ojo_dibandingke_yeni_inka_mp3/tray.jpg",
+			"link_mp3": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.djojodibandingkeviraloffline/Ojo_dibandingke_yeni_inka_mp3/Ojo_dibandingke_yeni_inka_mp3_2.mp3",
+			"duration": "307",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 72,
+			"name_category": "Ojo dibandingke yeni inka mp3",
+			"title": "Linting Daun",
+			"image": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.djojodibandingkeviraloffline/Ojo_dibandingke_yeni_inka_mp3/tray.jpg",
+			"link_mp3": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.djojodibandingkeviraloffline/Ojo_dibandingke_yeni_inka_mp3/Ojo_dibandingke_yeni_inka_mp3_3.mp3",
+			"duration": "266",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 73,
+			"name_category": "Ojo dibandingke yeni inka mp3",
+			"title": "Pecah Seribu",
+			"image": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.djojodibandingkeviraloffline/Ojo_dibandingke_yeni_inka_mp3/tray.jpg",
+			"link_mp3": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.djojodibandingkeviraloffline/Ojo_dibandingke_yeni_inka_mp3/Ojo_dibandingke_yeni_inka_mp3_4.mp3",
+			"duration": "463",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 74,
+			"name_category": "Ojo dibandingke yeni inka mp3",
+			"title": "Bojo Loro",
+			"image": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.djojodibandingkeviraloffline/Ojo_dibandingke_yeni_inka_mp3/tray.jpg",
+			"link_mp3": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.djojodibandingkeviraloffline/Ojo_dibandingke_yeni_inka_mp3/Ojo_dibandingke_yeni_inka_mp3_5.mp3",
+			"duration": "248",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 75,
+			"name_category": "Ojo dibandingke yeni inka mp3",
+			"title": "Top Topan",
+			"image": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.djojodibandingkeviraloffline/Ojo_dibandingke_yeni_inka_mp3/tray.jpg",
+			"link_mp3": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.djojodibandingkeviraloffline/Ojo_dibandingke_yeni_inka_mp3/Ojo_dibandingke_yeni_inka_mp3_6.mp3",
+			"duration": "283",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 76,
+			"name_category": "Ojo dibandingke yeni inka mp3",
+			"title": "Satru 2",
+			"image": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.djojodibandingkeviraloffline/Ojo_dibandingke_yeni_inka_mp3/tray.jpg",
+			"link_mp3": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.djojodibandingkeviraloffline/Ojo_dibandingke_yeni_inka_mp3/Ojo_dibandingke_yeni_inka_mp3_7.mp3",
+			"duration": "288",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 77,
+			"name_category": "Ojo dibandingke yeni inka mp3",
+			"title": "Pingal",
+			"image": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.djojodibandingkeviraloffline/Ojo_dibandingke_yeni_inka_mp3/tray.jpg",
+			"link_mp3": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.djojodibandingkeviraloffline/Ojo_dibandingke_yeni_inka_mp3/Ojo_dibandingke_yeni_inka_mp3_8.mp3",
+			"duration": "290",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 78,
+			"name_category": "Ojo dibandingke yeni inka mp3",
+			"title": "Dear Diary",
+			"image": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.djojodibandingkeviraloffline/Ojo_dibandingke_yeni_inka_mp3/tray.jpg",
+			"link_mp3": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.djojodibandingkeviraloffline/Ojo_dibandingke_yeni_inka_mp3/Ojo_dibandingke_yeni_inka_mp3_9.mp3",
+			"duration": "290",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 79,
+			"name_category": "Ojo dibandingke yeni inka mp3",
+			"title": "Mendung Tanpo Udan",
+			"image": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.djojodibandingkeviraloffline/Ojo_dibandingke_yeni_inka_mp3/tray.jpg",
+			"link_mp3": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.djojodibandingkeviraloffline/Ojo_dibandingke_yeni_inka_mp3/Ojo_dibandingke_yeni_inka_mp3_10.mp3",
+			"duration": "238",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 80,
+			"name_category": "Ojo dibandingke yeni inka mp3",
+			"title": "Melepas Lajang",
+			"image": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.djojodibandingkeviraloffline/Ojo_dibandingke_yeni_inka_mp3/tray.jpg",
+			"link_mp3": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.djojodibandingkeviraloffline/Ojo_dibandingke_yeni_inka_mp3/Ojo_dibandingke_yeni_inka_mp3_11.mp3",
+			"duration": "303",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 81,
+			"name_category": "Ojo dibandingke yeni inka mp3",
+			"title": "Ngamen 5",
+			"image": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.djojodibandingkeviraloffline/Ojo_dibandingke_yeni_inka_mp3/tray.jpg",
+			"link_mp3": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.djojodibandingkeviraloffline/Ojo_dibandingke_yeni_inka_mp3/Ojo_dibandingke_yeni_inka_mp3_12.mp3",
+			"duration": "287",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 82,
+			"name_category": "Ojo dibandingke yeni inka mp3",
+			"title": "Sewates Konco",
+			"image": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.djojodibandingkeviraloffline/Ojo_dibandingke_yeni_inka_mp3/tray.jpg",
+			"link_mp3": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.djojodibandingkeviraloffline/Ojo_dibandingke_yeni_inka_mp3/Ojo_dibandingke_yeni_inka_mp3_13.mp3",
+			"duration": "230",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 83,
+			"name_category": "Ojo dibandingke yeni inka mp3",
+			"title": "Ambyar Mak Pyar",
+			"image": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.djojodibandingkeviraloffline/Ojo_dibandingke_yeni_inka_mp3/tray.jpg",
+			"link_mp3": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.djojodibandingkeviraloffline/Ojo_dibandingke_yeni_inka_mp3/Ojo_dibandingke_yeni_inka_mp3_14.mp3",
+			"duration": "279",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 84,
+			"name_category": "Ojo dibandingke yeni inka mp3",
+			"title": "Mencintai Dengan Ngeyel",
+			"image": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.djojodibandingkeviraloffline/Ojo_dibandingke_yeni_inka_mp3/tray.jpg",
+			"link_mp3": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.djojodibandingkeviraloffline/Ojo_dibandingke_yeni_inka_mp3/Ojo_dibandingke_yeni_inka_mp3_15.mp3",
+			"duration": "245",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 85,
+			"name_category": "Ojo dibandingke yeni inka mp3",
+			"title": "Memandangmu",
+			"image": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.djojodibandingkeviraloffline/Ojo_dibandingke_yeni_inka_mp3/tray.jpg",
+			"link_mp3": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.djojodibandingkeviraloffline/Ojo_dibandingke_yeni_inka_mp3/Ojo_dibandingke_yeni_inka_mp3_16.mp3",
+			"duration": "288",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 86,
+			"name_category": "Ojo dibandingke yeni inka mp3",
+			"title": "Ojo dibandingke yeni inka mp3 17",
+			"image": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.djojodibandingkeviraloffline/Ojo_dibandingke_yeni_inka_mp3/tray.jpg",
+			"link_mp3": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.djojodibandingkeviraloffline/Ojo_dibandingke_yeni_inka_mp3/Ojo_dibandingke_yeni_inka_mp3_17.mp3",
+			"duration": "285",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 87,
+			"name_category": "Ojo dibandingke yeni inka mp3",
+			"title": "Angel 2",
+			"image": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.djojodibandingkeviraloffline/Ojo_dibandingke_yeni_inka_mp3/tray.jpg",
+			"link_mp3": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.djojodibandingkeviraloffline/Ojo_dibandingke_yeni_inka_mp3/Ojo_dibandingke_yeni_inka_mp3_18.mp3",
+			"duration": "220",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 88,
+			"name_category": "Ojo dibandingke yeni inka mp3",
+			"title": "Dalam Sepiku Kaulah Candaku",
+			"image": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.djojodibandingkeviraloffline/Ojo_dibandingke_yeni_inka_mp3/tray.jpg",
+			"link_mp3": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.djojodibandingkeviraloffline/Ojo_dibandingke_yeni_inka_mp3/Ojo_dibandingke_yeni_inka_mp3_19.mp3",
+			"duration": "288",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 89,
+			"name_category": "Ojo dibandingke yeni inka mp3",
+			"title": "Demi Kowe",
+			"image": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.djojodibandingkeviraloffline/Ojo_dibandingke_yeni_inka_mp3/tray.jpg",
+			"link_mp3": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.djojodibandingkeviraloffline/Ojo_dibandingke_yeni_inka_mp3/Ojo_dibandingke_yeni_inka_mp3_20.mp3",
+			"duration": "272",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 90,
+			"name_category": "Ojo dibandingke yeni inka mp3",
+			"title": "Cinta Sampai Mati 2",
+			"image": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.djojodibandingkeviraloffline/Ojo_dibandingke_yeni_inka_mp3/tray.jpg",
+			"link_mp3": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.djojodibandingkeviraloffline/Ojo_dibandingke_yeni_inka_mp3/Ojo_dibandingke_yeni_inka_mp3_21.mp3",
+			"duration": "209",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 91,
+			"name_category": "Ojo dibandingke yeni inka mp3",
+			"title": "Nglilakne Kowe",
+			"image": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.djojodibandingkeviraloffline/Ojo_dibandingke_yeni_inka_mp3/tray.jpg",
+			"link_mp3": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.djojodibandingkeviraloffline/Ojo_dibandingke_yeni_inka_mp3/Ojo_dibandingke_yeni_inka_mp3_22.mp3",
+			"duration": "337",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 92,
+			"name_category": "Ojo dibandingke yeni inka mp3",
+			"title": "Buruh COD",
+			"image": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.djojodibandingkeviraloffline/Ojo_dibandingke_yeni_inka_mp3/tray.jpg",
+			"link_mp3": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.djojodibandingkeviraloffline/Ojo_dibandingke_yeni_inka_mp3/Ojo_dibandingke_yeni_inka_mp3_23.mp3",
+			"duration": "281",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 93,
+			"name_category": "Ojo dibandingke yeni inka mp3",
+			"title": "Maafkan Aku",
+			"image": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.djojodibandingkeviraloffline/Ojo_dibandingke_yeni_inka_mp3/tray.jpg",
+			"link_mp3": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.djojodibandingkeviraloffline/Ojo_dibandingke_yeni_inka_mp3/Ojo_dibandingke_yeni_inka_mp3_24.mp3",
+			"duration": "274",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 94,
+			"name_category": "Ojo dibandingke yeni inka mp3",
+			"title": "Cinta Sampai Mati",
+			"image": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.djojodibandingkeviraloffline/Ojo_dibandingke_yeni_inka_mp3/tray.jpg",
+			"link_mp3": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.djojodibandingkeviraloffline/Ojo_dibandingke_yeni_inka_mp3/Ojo_dibandingke_yeni_inka_mp3_25.mp3",
+			"duration": "232",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 95,
+			"name_category": "Ojo dibandingke yeni inka mp3",
+			"title": "Banyu Langit",
+			"image": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.djojodibandingkeviraloffline/Ojo_dibandingke_yeni_inka_mp3/tray.jpg",
+			"link_mp3": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.djojodibandingkeviraloffline/Ojo_dibandingke_yeni_inka_mp3/Ojo_dibandingke_yeni_inka_mp3_26.mp3",
+			"duration": "293",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 96,
+			"name_category": "Ojo dibandingke yeni inka mp3",
+			"title": "Angel 3",
+			"image": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.djojodibandingkeviraloffline/Ojo_dibandingke_yeni_inka_mp3/tray.jpg",
+			"link_mp3": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.djojodibandingkeviraloffline/Ojo_dibandingke_yeni_inka_mp3/Ojo_dibandingke_yeni_inka_mp3_27.mp3",
+			"duration": "255",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 97,
+			"name_category": "Ojo dibandingke yeni inka mp3",
+			"title": "Aku Bukan Jodohnya",
+			"image": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.djojodibandingkeviraloffline/Ojo_dibandingke_yeni_inka_mp3/tray.jpg",
+			"link_mp3": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.djojodibandingkeviraloffline/Ojo_dibandingke_yeni_inka_mp3/Ojo_dibandingke_yeni_inka_mp3_28.mp3",
+			"duration": "395",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 98,
+			"name_category": "Ojo dibandingke yeni inka mp3",
+			"title": "Ojo Dibandingke",
+			"image": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.djojodibandingkeviraloffline/Ojo_dibandingke_yeni_inka_mp3/tray.jpg",
+			"link_mp3": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.djojodibandingkeviraloffline/Ojo_dibandingke_yeni_inka_mp3/Ojo_dibandingke_yeni_inka_mp3_29.mp3",
+			"duration": "315",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 99,
+			"name_category": "Ojo dibandingke yeni inka mp3",
+			"title": "Duri Duri",
+			"image": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.djojodibandingkeviraloffline/Ojo_dibandingke_yeni_inka_mp3/tray.jpg",
+			"link_mp3": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.djojodibandingkeviraloffline/Ojo_dibandingke_yeni_inka_mp3/Ojo_dibandingke_yeni_inka_mp3_30.mp3",
+			"duration": "293",
+			"lyrics": "Tidak Ada Lirik"
+		}
+	]
+}
