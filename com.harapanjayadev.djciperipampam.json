@@ -1,0 +1,1360 @@
+{
+
+	"ads": {
+		"live_version_code": -1,
+		"init_ads_mode": "single",
+
+		"interstitial_type": "lap",
+		"interval_las": 5,
+
+		"timeout_load": 18,
+		"rate_dialog_count": 4,
+
+		"splash_ad": "auto",
+		"banner_ad": "auto",
+		"banner_detail_ad": "auto",
+		"mrec_ad": "auto",
+		"inter_ad": "auto",
+
+		"splash_ad_identifier": "identifier_1",
+		"inter_ad_identifier": "identifier_2",
+		"banner_ad_identifier": "identifier_3",
+		"banner_detail_ad_identifier": "identifier_4",
+		"mrec_ad_identifier": "identifier_5",
+
+		"interval_awal": 5,
+
+		"kemungkinan_smatoo": 0,
+		"minimum_time_smatoo": 120,
+		"interval_smatoo": 5,
+		"smatoo_publisher_id": "-",
+		"smatoo_banner": "-",
+		"smatoo_mrec": "-",
+		"smatoo_inter": "-",
+		"smatoo_init_wait": true,
+		"smatoo_banner_on" : true,
+		"smatoo_detail_banner_on" : true,
+		"smatoo_mrec_on" : true,
+		"smatoo_splash_on" : true,
+		"smatoo_inter_on" : true,
+		"smatoo_must_live_playstore" : true,
+
+		"kemungkinan_appodeal": 0,
+		"minimum_time_appodeal": 120,
+		"interval_appodeal": 5,
+		"appodeal_app_key": "-",
+		"appodeal_init_wait": true,
+		"appodeal_banner_on" : true,
+		"appodeal_detail_banner_on" : true,
+		"appodeal_mrec_on" : true,
+		"appodeal_splash_on" : true,
+		"appodeal_inter_on" : true,
+		"appodeal_must_live_playstore" : true,
+
+		"kemungkinan_vungle": 0,
+		"minimum_time_vungle": 120,
+		"interval_vungle": 5,
+		"vungle_app_id": "-",
+		"vungle_banner": "-",
+		"vungle_mrec": "-",
+		"vungle_inter": "-",
+		"vungle_init_wait": true,
+		"vungle_banner_on" : true,
+		"vungle_detail_banner_on" : true,
+		"vungle_mrec_on" : true,
+		"vungle_splash_on" : true,
+		"vungle_inter_on" : true,
+		"vungle_must_live_playstore" : true,
+
+		"kemungkinan_iron": 0,
+		"minimum_time_iron": 120,
+		"interval_iron": 5,
+		"iron_appkey": "-",
+		"iron_init_wait": true,
+		"iron_banner_on" : false,
+		"iron_detail_banner_on" : false,
+		"iron_mrec_on" : false,
+		"iron_splash_on" : true,
+		"iron_inter_on" : true,
+		"iron_must_live_playstore" : true,
+
+		"kemungkinan_fan": 0,
+		"minimum_time_fan": 120,
+		"interval_fan": 5,
+		"fan_banner": "-",
+		"fan_mrec": "-",
+		"fan_inter": "-",
+		"fan_init_wait": true,
+		"fan_banner_on" : true,
+		"fan_detail_banner_on" : true,
+		"fan_mrec_on" : true,
+		"fan_splash_on" : true,
+		"fan_inter_on" : true,
+		"fan_must_live_playstore" : true,
+
+		"kemungkinan_unity": 0,
+		"minimum_time_unity": 120,
+		"interval_unity": 5,
+		"unity_game_id": "-",
+		"unity_banner": "-",
+		"unity_inter": "-",
+		"unity_init_wait": true,
+		"unity_banner_on" : true,
+		"unity_detail_banner_on" : true,
+		"unity_mrec_on" : false,
+		"unity_splash_on" : true,
+		"unity_inter_on" : true,
+		"unity_must_live_playstore" : true,
+
+		"kemungkinan_admob": 0,
+		"minimum_time_admob": 300,
+		"interval_admob": 5,
+		"admob_open": "-",
+		"admob_banner": "-",
+		"admob_inter": "-",
+		"admob_init_wait": true,
+		"admob_banner_on" : true,
+		"admob_detail_banner_on" : true,
+		"admob_mrec_on" : true,
+		"admob_splash_on" : true,
+		"admob_inter_on" : true,
+		"admob_must_live_playstore" : true,
+
+		"kemungkinan_max": 0,
+		"minimum_time_max": 120,
+		"interval_max": 5,
+		"max_banner": "-",
+		"max_mrec": "-",
+		"max_inter": "-",
+		"max_init_wait": true,
+		"max_banner_on" : true,
+		"max_detail_banner_on" : true,
+		"max_mrec_on" : true,
+		"max_splash_on" : true,
+		"max_inter_on" : true,
+		"max_must_live_playstore" : true,
+
+		"kemungkinan_startapp": 1,
+		"minimum_time_startapp": 0,
+		"interval_startapp": 5,
+		"startapp_id": "207535332",
+		"startapp_init_wait": true,
+		"startapp_banner_on" : true,
+		"startapp_detail_banner_on" : true,
+		"startapp_mrec_on" : true,
+		"startapp_splash_on" : true,
+		"startapp_inter_on" : true,
+		"startapp_must_live_playstore" : true,
+
+		"app_live_store": "auto",
+		"shopee_aff": "null"
+	},
+	"Categories": [
+		{
+			"id": 1,
+			"name_category": "Ciperi Pam Pam Offline",
+			"image": "file:///android_asset/content/Ciperi_Pam_Pam_Offline/tray.jpg"
+		},
+		{
+			"id": 2,
+			"name_category": "Dj Jika kau bertemu aku begini",
+			"image": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.djciperipampam/Dj_Jika_kau_bertemu_aku_begini/tray.jpg"
+		},
+		{
+			"id": 3,
+			"name_category": "DJ Opus Remix Viral",
+			"image": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.djciperipampam/DJ_Opus_Remix_Viral/tray.jpg"
+		},
+		{
+			"id": 4,
+			"name_category": "DJ Remix Viral Full Bass",
+			"image": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.djciperipampam/DJ_Remix_Viral_Full_Bass/tray.jpg"
+		},
+		{
+			"id": 5,
+			"name_category": "Natti Natasha  Ram Pam Pam",
+			"image": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.djciperipampam/Natti_Natasha__Ram_Pam_Pam/tray.jpg"
+		}
+	],
+	"Data": [
+		{
+			"id": 1,
+			"name_category": "Ciperi Pam Pam Offline",
+			"title": "DJ ALREADY GONE SlOW REMIX",
+			"image": "file:///android_asset/content/Ciperi_Pam_Pam_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/Ciperi_Pam_Pam_Offline/DJ_ALREADY_GONE_SlOW_REMIX.mp3",
+			"duration": "318",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 2,
+			"name_category": "Ciperi Pam Pam Offline",
+			"title": "DJ AND NO ONE KNOW JEDAG JEDUG",
+			"image": "file:///android_asset/content/Ciperi_Pam_Pam_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/Ciperi_Pam_Pam_Offline/DJ_AND_NO_ONE_KNOW_JEDAG_JEDUG.mp3",
+			"duration": "260",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 3,
+			"name_category": "Ciperi Pam Pam Offline",
+			"title": "DJ ASMALIBRASI REMIX FULL BASS",
+			"image": "file:///android_asset/content/Ciperi_Pam_Pam_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/Ciperi_Pam_Pam_Offline/DJ_ASMALIBRASI_REMIX_FULL_BASS.mp3",
+			"duration": "315",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 4,
+			"name_category": "Ciperi Pam Pam Offline",
+			"title": "DJ BALASAN JANJI PALSUMU REMIX",
+			"image": "file:///android_asset/content/Ciperi_Pam_Pam_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/Ciperi_Pam_Pam_Offline/DJ_BALASAN_JANJI_PALSUMU_REMIX.mp3",
+			"duration": "322",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 5,
+			"name_category": "Ciperi Pam Pam Offline",
+			"title": "DJ BOJO LORO REMIX FULL BASS",
+			"image": "file:///android_asset/content/Ciperi_Pam_Pam_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/Ciperi_Pam_Pam_Offline/DJ_BOJO_LORO_REMIX_FULL_BASS.mp3",
+			"duration": "371",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 6,
+			"name_category": "Ciperi Pam Pam Offline",
+			"title": "DJ CIPERI PAM PAM VIRAL TIKTOK",
+			"image": "file:///android_asset/content/Ciperi_Pam_Pam_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/Ciperi_Pam_Pam_Offline/DJ_CIPERI_PAM_PAM_VIRAL_TIKTOK.mp3",
+			"duration": "271",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 7,
+			"name_category": "Ciperi Pam Pam Offline",
+			"title": "DJ CLOSE YOUR EYES X TEKI GAM",
+			"image": "file:///android_asset/content/Ciperi_Pam_Pam_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/Ciperi_Pam_Pam_Offline/DJ_CLOSE_YOUR_EYES_X_TEKI_GAM.mp3",
+			"duration": "306",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 8,
+			"name_category": "Ciperi Pam Pam Offline",
+			"title": "DJ DERMAGA BIRU TIK TOK VIRAL",
+			"image": "file:///android_asset/content/Ciperi_Pam_Pam_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/Ciperi_Pam_Pam_Offline/DJ_DERMAGA_BIRU_TIK_TOK_VIRAL.mp3",
+			"duration": "346",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 9,
+			"name_category": "Ciperi Pam Pam Offline",
+			"title": "DJ DULU SOMETHING SEKARANG NOTHING",
+			"image": "file:///android_asset/content/Ciperi_Pam_Pam_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/Ciperi_Pam_Pam_Offline/DJ_DULU_SOMETHING_SEKARANG_NOTHING.mp3",
+			"duration": "266",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 10,
+			"name_category": "Ciperi Pam Pam Offline",
+			"title": "DJ FULL SENYUM SAYANG TIKTOK VIRAL",
+			"image": "file:///android_asset/content/Ciperi_Pam_Pam_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/Ciperi_Pam_Pam_Offline/DJ_FULL_SENYUM_SAYANG_TIKTOK_VIRAL.mp3",
+			"duration": "360",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 11,
+			"name_category": "Ciperi Pam Pam Offline",
+			"title": "DJ GEDANG KLUTUK JEDAG JEDUG",
+			"image": "file:///android_asset/content/Ciperi_Pam_Pam_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/Ciperi_Pam_Pam_Offline/DJ_GEDANG_KLUTUK_JEDAG_JEDUG.mp3",
+			"duration": "223",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 12,
+			"name_category": "Ciperi Pam Pam Offline",
+			"title": "DJ HAL HEBAT GOVINDA REMIX",
+			"image": "file:///android_asset/content/Ciperi_Pam_Pam_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/Ciperi_Pam_Pam_Offline/DJ_HAL_HEBAT_GOVINDA_REMIX.mp3",
+			"duration": "360",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 13,
+			"name_category": "Ciperi Pam Pam Offline",
+			"title": "DJ HOLA COMO TALE TALE VU",
+			"image": "file:///android_asset/content/Ciperi_Pam_Pam_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/Ciperi_Pam_Pam_Offline/DJ_HOLA_COMO_TALE_TALE_VU.mp3",
+			"duration": "351",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 14,
+			"name_category": "Ciperi Pam Pam Offline",
+			"title": "DJ HOOH TENAN X ENTE KADANG KADANG",
+			"image": "file:///android_asset/content/Ciperi_Pam_Pam_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/Ciperi_Pam_Pam_Offline/DJ_HOOH_TENAN_X_ENTE_KADANG_KADANG.mp3",
+			"duration": "241",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 15,
+			"name_category": "Ciperi Pam Pam Offline",
+			"title": "DJ JOKO TINGKIR NGOMBE DAWET",
+			"image": "file:///android_asset/content/Ciperi_Pam_Pam_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/Ciperi_Pam_Pam_Offline/DJ_JOKO_TINGKIR_NGOMBE_DAWET.mp3",
+			"duration": "345",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 16,
+			"name_category": "Ciperi Pam Pam Offline",
+			"title": "DJ LDR KERAS BOS VIRAL",
+			"image": "file:///android_asset/content/Ciperi_Pam_Pam_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/Ciperi_Pam_Pam_Offline/DJ_LDR_KERAS_BOS_VIRAL.mp3",
+			"duration": "330",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 17,
+			"name_category": "Ciperi Pam Pam Offline",
+			"title": "DJ LEFT RIGHT X RINDU SEMALAM",
+			"image": "file:///android_asset/content/Ciperi_Pam_Pam_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/Ciperi_Pam_Pam_Offline/DJ_LEFT_RIGHT_X_RINDU_SEMALAM.mp3",
+			"duration": "301",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 18,
+			"name_category": "Ciperi Pam Pam Offline",
+			"title": "DJ MABUK CINTA REMIX VIRAL",
+			"image": "file:///android_asset/content/Ciperi_Pam_Pam_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/Ciperi_Pam_Pam_Offline/DJ_MABUK_CINTA_REMIX_VIRAL.mp3",
+			"duration": "344",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 19,
+			"name_category": "Ciperi Pam Pam Offline",
+			"title": "DJ MEMANG AKU JOMBLO THAI STYLE",
+			"image": "file:///android_asset/content/Ciperi_Pam_Pam_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/Ciperi_Pam_Pam_Offline/DJ_MEMANG_AKU_JOMBLO_THAI_STYLE.mp3",
+			"duration": "304",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 20,
+			"name_category": "Ciperi Pam Pam Offline",
+			"title": "DJ MUKA MU MANIS SEPERTI GULA",
+			"image": "file:///android_asset/content/Ciperi_Pam_Pam_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/Ciperi_Pam_Pam_Offline/DJ_MUKA_MU_MANIS_SEPERTI_GULA.mp3",
+			"duration": "215",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 21,
+			"name_category": "Ciperi Pam Pam Offline",
+			"title": "DJ OJO DI BANDINGKE VIRAL",
+			"image": "file:///android_asset/content/Ciperi_Pam_Pam_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/Ciperi_Pam_Pam_Offline/DJ_OJO_DI_BANDINGKE_VIRAL.mp3",
+			"duration": "314",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 22,
+			"name_category": "Ciperi Pam Pam Offline",
+			"title": "DJ PARTY STARTED STYLE PONG PONG",
+			"image": "file:///android_asset/content/Ciperi_Pam_Pam_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/Ciperi_Pam_Pam_Offline/DJ_PARTY_STARTED_STYLE_PONG_PONG.mp3",
+			"duration": "289",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 23,
+			"name_category": "Ciperi Pam Pam Offline",
+			"title": "DJ PELUK CIUM BOLAK BALIK",
+			"image": "file:///android_asset/content/Ciperi_Pam_Pam_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/Ciperi_Pam_Pam_Offline/DJ_PELUK_CIUM_BOLAK_BALIK.mp3",
+			"duration": "283",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 24,
+			"name_category": "Ciperi Pam Pam Offline",
+			"title": "DJ PUMP IT UP SOUND VIRAL",
+			"image": "file:///android_asset/content/Ciperi_Pam_Pam_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/Ciperi_Pam_Pam_Offline/DJ_PUMP_IT_UP_SOUND_VIRAL.mp3",
+			"duration": "309",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 25,
+			"name_category": "Ciperi Pam Pam Offline",
+			"title": "DJ RA BAKAL TAK BALENI TRESNOKU",
+			"image": "file:///android_asset/content/Ciperi_Pam_Pam_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/Ciperi_Pam_Pam_Offline/DJ_RA_BAKAL_TAK_BALENI_TRESNOKU.mp3",
+			"duration": "362",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 26,
+			"name_category": "Ciperi Pam Pam Offline",
+			"title": "DJ RUNTAH - BIWIR BEUREUM-BEUREUM",
+			"image": "file:///android_asset/content/Ciperi_Pam_Pam_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/Ciperi_Pam_Pam_Offline/DJ_RUNTAH_-_BIWIR_BEUREUM-BEUREUM.mp3",
+			"duration": "343",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 27,
+			"name_category": "Ciperi Pam Pam Offline",
+			"title": "DJ SALIRA AYENA AYENA DIMANA",
+			"image": "file:///android_asset/content/Ciperi_Pam_Pam_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/Ciperi_Pam_Pam_Offline/DJ_SALIRA_AYENA_AYENA_DIMANA.mp3",
+			"duration": "247",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 28,
+			"name_category": "Ciperi Pam Pam Offline",
+			"title": "DJ SI UDIN BERTANYA PHONK REMIX",
+			"image": "file:///android_asset/content/Ciperi_Pam_Pam_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/Ciperi_Pam_Pam_Offline/DJ_SI_UDIN_BERTANYA_PHONK_REMIX.mp3",
+			"duration": "240",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 29,
+			"name_category": "Ciperi Pam Pam Offline",
+			"title": "DJ YO NDAK MAMPU AKU NINU NINU",
+			"image": "file:///android_asset/content/Ciperi_Pam_Pam_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/Ciperi_Pam_Pam_Offline/DJ_YO_NDAK_MAMPU_AKU_NINU_NINU.mp3",
+			"duration": "358",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 30,
+			"name_category": "Dj Jika kau bertemu aku begini",
+			"title": "DJ DERMAGA BIRU",
+			"image": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.djciperipampam/Dj_Jika_kau_bertemu_aku_begini/tray.jpg",
+			"link_mp3": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.djciperipampam/Dj_Jika_kau_bertemu_aku_begini/Dj_Jika_kau_bertemu_aku_begini_1.mp3",
+			"duration": "343",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 31,
+			"name_category": "Dj Jika kau bertemu aku begini",
+			"title": "DJ KU BERLAYAR DI LAUTAN TIDAK BERTEPIAN",
+			"image": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.djciperipampam/Dj_Jika_kau_bertemu_aku_begini/tray.jpg",
+			"link_mp3": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.djciperipampam/Dj_Jika_kau_bertemu_aku_begini/Dj_Jika_kau_bertemu_aku_begini_2.mp3",
+			"duration": "356",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 32,
+			"name_category": "Dj Jika kau bertemu aku begini",
+			"title": "DJ LINTING DAUN",
+			"image": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.djciperipampam/Dj_Jika_kau_bertemu_aku_begini/tray.jpg",
+			"link_mp3": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.djciperipampam/Dj_Jika_kau_bertemu_aku_begini/Dj_Jika_kau_bertemu_aku_begini_3.mp3",
+			"duration": "331",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 33,
+			"name_category": "Dj Jika kau bertemu aku begini",
+			"title": "DJ BOJO LORO",
+			"image": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.djciperipampam/Dj_Jika_kau_bertemu_aku_begini/tray.jpg",
+			"link_mp3": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.djciperipampam/Dj_Jika_kau_bertemu_aku_begini/Dj_Jika_kau_bertemu_aku_begini_4.mp3",
+			"duration": "335",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 34,
+			"name_category": "Dj Jika kau bertemu aku begini",
+			"title": "DJ KAU PERMAISURI DALAM MIMPIKU",
+			"image": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.djciperipampam/Dj_Jika_kau_bertemu_aku_begini/tray.jpg",
+			"link_mp3": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.djciperipampam/Dj_Jika_kau_bertemu_aku_begini/Dj_Jika_kau_bertemu_aku_begini_5.mp3",
+			"duration": "313",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 35,
+			"name_category": "Dj Jika kau bertemu aku begini",
+			"title": "DJ BILA KAMU TAK LAGI DENGANKU",
+			"image": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.djciperipampam/Dj_Jika_kau_bertemu_aku_begini/tray.jpg",
+			"link_mp3": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.djciperipampam/Dj_Jika_kau_bertemu_aku_begini/Dj_Jika_kau_bertemu_aku_begini_6.mp3",
+			"duration": "390",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 36,
+			"name_category": "Dj Jika kau bertemu aku begini",
+			"title": "DJ DIA GADIS BERKRUDUNG MERAH",
+			"image": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.djciperipampam/Dj_Jika_kau_bertemu_aku_begini/tray.jpg",
+			"link_mp3": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.djciperipampam/Dj_Jika_kau_bertemu_aku_begini/Dj_Jika_kau_bertemu_aku_begini_7.mp3",
+			"duration": "265",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 37,
+			"name_category": "Dj Jika kau bertemu aku begini",
+			"title": "DJ JIKA KAU BERTEMU AKU BEGINI TIARA",
+			"image": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.djciperipampam/Dj_Jika_kau_bertemu_aku_begini/tray.jpg",
+			"link_mp3": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.djciperipampam/Dj_Jika_kau_bertemu_aku_begini/Dj_Jika_kau_bertemu_aku_begini_8.mp3",
+			"duration": "365",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 38,
+			"name_category": "Dj Jika kau bertemu aku begini",
+			"title": "DJ JOKO TINGKIR NGOMBE DAWET",
+			"image": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.djciperipampam/Dj_Jika_kau_bertemu_aku_begini/tray.jpg",
+			"link_mp3": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.djciperipampam/Dj_Jika_kau_bertemu_aku_begini/Dj_Jika_kau_bertemu_aku_begini_9.mp3",
+			"duration": "221",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 39,
+			"name_category": "Dj Jika kau bertemu aku begini",
+			"title": "DJ LO MATI GUE PARTY COY SAMPE BAWAH",
+			"image": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.djciperipampam/Dj_Jika_kau_bertemu_aku_begini/tray.jpg",
+			"link_mp3": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.djciperipampam/Dj_Jika_kau_bertemu_aku_begini/Dj_Jika_kau_bertemu_aku_begini_10.mp3",
+			"duration": "277",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 40,
+			"name_category": "Dj Jika kau bertemu aku begini",
+			"title": "DJ PECAH SERIBU",
+			"image": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.djciperipampam/Dj_Jika_kau_bertemu_aku_begini/tray.jpg",
+			"link_mp3": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.djciperipampam/Dj_Jika_kau_bertemu_aku_begini/Dj_Jika_kau_bertemu_aku_begini_11.mp3",
+			"duration": "299",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 41,
+			"name_category": "Dj Jika kau bertemu aku begini",
+			"title": "DJ MAAFKAN AKU",
+			"image": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.djciperipampam/Dj_Jika_kau_bertemu_aku_begini/tray.jpg",
+			"link_mp3": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.djciperipampam/Dj_Jika_kau_bertemu_aku_begini/Dj_Jika_kau_bertemu_aku_begini_12.mp3",
+			"duration": "336",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 42,
+			"name_category": "Dj Jika kau bertemu aku begini",
+			"title": "DJ MENEKETEHE X BANGUN TIDUR SELFIE",
+			"image": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.djciperipampam/Dj_Jika_kau_bertemu_aku_begini/tray.jpg",
+			"link_mp3": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.djciperipampam/Dj_Jika_kau_bertemu_aku_begini/Dj_Jika_kau_bertemu_aku_begini_13.mp3",
+			"duration": "246",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 43,
+			"name_category": "Dj Jika kau bertemu aku begini",
+			"title": "DJ NGAMEN 5 SLOW BEAT",
+			"image": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.djciperipampam/Dj_Jika_kau_bertemu_aku_begini/tray.jpg",
+			"link_mp3": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.djciperipampam/Dj_Jika_kau_bertemu_aku_begini/Dj_Jika_kau_bertemu_aku_begini_14.mp3",
+			"duration": "189",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 44,
+			"name_category": "Dj Jika kau bertemu aku begini",
+			"title": "DJ ONENONENONENO X LAKE LAKE",
+			"image": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.djciperipampam/Dj_Jika_kau_bertemu_aku_begini/tray.jpg",
+			"link_mp3": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.djciperipampam/Dj_Jika_kau_bertemu_aku_begini/Dj_Jika_kau_bertemu_aku_begini_15.mp3",
+			"duration": "275",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 45,
+			"name_category": "Dj Jika kau bertemu aku begini",
+			"title": "DJ PAK WONG WONG",
+			"image": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.djciperipampam/Dj_Jika_kau_bertemu_aku_begini/tray.jpg",
+			"link_mp3": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.djciperipampam/Dj_Jika_kau_bertemu_aku_begini/Dj_Jika_kau_bertemu_aku_begini_16.mp3",
+			"duration": "334",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 46,
+			"name_category": "Dj Jika kau bertemu aku begini",
+			"title": "DJ POK AME AME BELALANG KUPU KUPU",
+			"image": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.djciperipampam/Dj_Jika_kau_bertemu_aku_begini/tray.jpg",
+			"link_mp3": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.djciperipampam/Dj_Jika_kau_bertemu_aku_begini/Dj_Jika_kau_bertemu_aku_begini_17.mp3",
+			"duration": "308",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 47,
+			"name_category": "Dj Jika kau bertemu aku begini",
+			"title": "DJ RIP LOVE FAOUZIA",
+			"image": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.djciperipampam/Dj_Jika_kau_bertemu_aku_begini/tray.jpg",
+			"link_mp3": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.djciperipampam/Dj_Jika_kau_bertemu_aku_begini/Dj_Jika_kau_bertemu_aku_begini_18.mp3",
+			"duration": "346",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 48,
+			"name_category": "Dj Jika kau bertemu aku begini",
+			"title": "DJ SUDAH TAK CINTA",
+			"image": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.djciperipampam/Dj_Jika_kau_bertemu_aku_begini/tray.jpg",
+			"link_mp3": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.djciperipampam/Dj_Jika_kau_bertemu_aku_begini/Dj_Jika_kau_bertemu_aku_begini_19.mp3",
+			"duration": "348",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 49,
+			"name_category": "Dj Jika kau bertemu aku begini",
+			"title": "DJ YA CUMA KAMU",
+			"image": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.djciperipampam/Dj_Jika_kau_bertemu_aku_begini/tray.jpg",
+			"link_mp3": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.djciperipampam/Dj_Jika_kau_bertemu_aku_begini/Dj_Jika_kau_bertemu_aku_begini_20.mp3",
+			"duration": "187",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 50,
+			"name_category": "Dj Jika kau bertemu aku begini",
+			"title": "DJ OJO DI BANDINGKE",
+			"image": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.djciperipampam/Dj_Jika_kau_bertemu_aku_begini/tray.jpg",
+			"link_mp3": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.djciperipampam/Dj_Jika_kau_bertemu_aku_begini/Dj_Jika_kau_bertemu_aku_begini_21.mp3",
+			"duration": "348",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 51,
+			"name_category": "Dj Jika kau bertemu aku begini",
+			"title": "DJ APA KABAR SAYANG",
+			"image": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.djciperipampam/Dj_Jika_kau_bertemu_aku_begini/tray.jpg",
+			"link_mp3": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.djciperipampam/Dj_Jika_kau_bertemu_aku_begini/Dj_Jika_kau_bertemu_aku_begini_22.mp3",
+			"duration": "329",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 52,
+			"name_category": "Dj Jika kau bertemu aku begini",
+			"title": "DJ CINTA TERPENDAM",
+			"image": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.djciperipampam/Dj_Jika_kau_bertemu_aku_begini/tray.jpg",
+			"link_mp3": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.djciperipampam/Dj_Jika_kau_bertemu_aku_begini/Dj_Jika_kau_bertemu_aku_begini_23.mp3",
+			"duration": "307",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 53,
+			"name_category": "Dj Jika kau bertemu aku begini",
+			"title": "DJ HADIRMU AKAN MENJADI CERITA",
+			"image": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.djciperipampam/Dj_Jika_kau_bertemu_aku_begini/tray.jpg",
+			"link_mp3": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.djciperipampam/Dj_Jika_kau_bertemu_aku_begini/Dj_Jika_kau_bertemu_aku_begini_24.mp3",
+			"duration": "371",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 54,
+			"name_category": "Dj Jika kau bertemu aku begini",
+			"title": "DJ HANYA SATU PERSINGGAHAN",
+			"image": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.djciperipampam/Dj_Jika_kau_bertemu_aku_begini/tray.jpg",
+			"link_mp3": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.djciperipampam/Dj_Jika_kau_bertemu_aku_begini/Dj_Jika_kau_bertemu_aku_begini_25.mp3",
+			"duration": "314",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 55,
+			"name_category": "Dj Jika kau bertemu aku begini",
+			"title": "DJ ISTRI SIMPANAN",
+			"image": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.djciperipampam/Dj_Jika_kau_bertemu_aku_begini/tray.jpg",
+			"link_mp3": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.djciperipampam/Dj_Jika_kau_bertemu_aku_begini/Dj_Jika_kau_bertemu_aku_begini_26.mp3",
+			"duration": "302",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 56,
+			"name_category": "Dj Jika kau bertemu aku begini",
+			"title": "DJ TERLALU KEJAM UNTUKKU",
+			"image": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.djciperipampam/Dj_Jika_kau_bertemu_aku_begini/tray.jpg",
+			"link_mp3": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.djciperipampam/Dj_Jika_kau_bertemu_aku_begini/Dj_Jika_kau_bertemu_aku_begini_27.mp3",
+			"duration": "342",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 57,
+			"name_category": "Dj Jika kau bertemu aku begini",
+			"title": "DJ ANGEL BABY",
+			"image": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.djciperipampam/Dj_Jika_kau_bertemu_aku_begini/tray.jpg",
+			"link_mp3": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.djciperipampam/Dj_Jika_kau_bertemu_aku_begini/Dj_Jika_kau_bertemu_aku_begini_28.mp3",
+			"duration": "267",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 58,
+			"name_category": "Dj Jika kau bertemu aku begini",
+			"title": "DJ CINTA SAMPAI MATI 2",
+			"image": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.djciperipampam/Dj_Jika_kau_bertemu_aku_begini/tray.jpg",
+			"link_mp3": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.djciperipampam/Dj_Jika_kau_bertemu_aku_begini/Dj_Jika_kau_bertemu_aku_begini_29.mp3",
+			"duration": "351",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 59,
+			"name_category": "Dj Jika kau bertemu aku begini",
+			"title": "DJ DALAM SEPIKU KAULAH CANDAKU",
+			"image": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.djciperipampam/Dj_Jika_kau_bertemu_aku_begini/tray.jpg",
+			"link_mp3": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.djciperipampam/Dj_Jika_kau_bertemu_aku_begini/Dj_Jika_kau_bertemu_aku_begini_30.mp3",
+			"duration": "250",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 60,
+			"name_category": "Dj Jika kau bertemu aku begini",
+			"title": "DJ DEAR DIARY KU INGIN BERCERITA",
+			"image": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.djciperipampam/Dj_Jika_kau_bertemu_aku_begini/tray.jpg",
+			"link_mp3": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.djciperipampam/Dj_Jika_kau_bertemu_aku_begini/Dj_Jika_kau_bertemu_aku_begini_31.mp3",
+			"duration": "292",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 61,
+			"name_category": "DJ Opus Remix Viral",
+			"title": "DJ ANGEL BABY",
+			"image": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.djciperipampam/DJ_Opus_Remix_Viral/tray.jpg",
+			"link_mp3": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.djciperipampam/DJ_Opus_Remix_Viral/DJ_Opus_Remix_Viral_1.mp3",
+			"duration": "310",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 62,
+			"name_category": "DJ Opus Remix Viral",
+			"title": "DJ BILA KAMU TAK LAGI DENGANKU",
+			"image": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.djciperipampam/DJ_Opus_Remix_Viral/tray.jpg",
+			"link_mp3": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.djciperipampam/DJ_Opus_Remix_Viral/DJ_Opus_Remix_Viral_2.mp3",
+			"duration": "325",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 63,
+			"name_category": "DJ Opus Remix Viral",
+			"title": "DJ CAMPURAN VIRAL",
+			"image": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.djciperipampam/DJ_Opus_Remix_Viral/tray.jpg",
+			"link_mp3": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.djciperipampam/DJ_Opus_Remix_Viral/DJ_Opus_Remix_Viral_3.mp3",
+			"duration": "321",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 64,
+			"name_category": "DJ Opus Remix Viral",
+			"title": "DJ CINTA SAMPAI MATI",
+			"image": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.djciperipampam/DJ_Opus_Remix_Viral/tray.jpg",
+			"link_mp3": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.djciperipampam/DJ_Opus_Remix_Viral/DJ_Opus_Remix_Viral_4.mp3",
+			"duration": "361",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 65,
+			"name_category": "DJ Opus Remix Viral",
+			"title": "DJ DALAMO DALAMO",
+			"image": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.djciperipampam/DJ_Opus_Remix_Viral/tray.jpg",
+			"link_mp3": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.djciperipampam/DJ_Opus_Remix_Viral/DJ_Opus_Remix_Viral_5.mp3",
+			"duration": "333",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 66,
+			"name_category": "DJ Opus Remix Viral",
+			"title": "DJ DOTA RICARDO MILOS",
+			"image": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.djciperipampam/DJ_Opus_Remix_Viral/tray.jpg",
+			"link_mp3": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.djciperipampam/DJ_Opus_Remix_Viral/DJ_Opus_Remix_Viral_6.mp3",
+			"duration": "324",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 67,
+			"name_category": "DJ Opus Remix Viral",
+			"title": "DJ GHOST JEDAG JEDUG",
+			"image": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.djciperipampam/DJ_Opus_Remix_Viral/tray.jpg",
+			"link_mp3": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.djciperipampam/DJ_Opus_Remix_Viral/DJ_Opus_Remix_Viral_7.mp3",
+			"duration": "301",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 68,
+			"name_category": "DJ Opus Remix Viral",
+			"title": "DJ GODZILLA SLOW",
+			"image": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.djciperipampam/DJ_Opus_Remix_Viral/tray.jpg",
+			"link_mp3": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.djciperipampam/DJ_Opus_Remix_Viral/DJ_Opus_Remix_Viral_8.mp3",
+			"duration": "321",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 69,
+			"name_category": "DJ Opus Remix Viral",
+			"title": "DJ INILAH AKU RAJA MEXICO",
+			"image": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.djciperipampam/DJ_Opus_Remix_Viral/tray.jpg",
+			"link_mp3": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.djciperipampam/DJ_Opus_Remix_Viral/DJ_Opus_Remix_Viral_9.mp3",
+			"duration": "305",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 70,
+			"name_category": "DJ Opus Remix Viral",
+			"title": "DJ POK AME AME BELALANG KUPU KUPU",
+			"image": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.djciperipampam/DJ_Opus_Remix_Viral/tray.jpg",
+			"link_mp3": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.djciperipampam/DJ_Opus_Remix_Viral/DJ_Opus_Remix_Viral_10.mp3",
+			"duration": "308",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 71,
+			"name_category": "DJ Opus Remix Viral",
+			"title": "DJ RIP LOVE FAOUZIA",
+			"image": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.djciperipampam/DJ_Opus_Remix_Viral/tray.jpg",
+			"link_mp3": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.djciperipampam/DJ_Opus_Remix_Viral/DJ_Opus_Remix_Viral_11.mp3",
+			"duration": "346",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 72,
+			"name_category": "DJ Opus Remix Viral",
+			"title": "DJ BBHM RIHANA",
+			"image": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.djciperipampam/DJ_Opus_Remix_Viral/tray.jpg",
+			"link_mp3": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.djciperipampam/DJ_Opus_Remix_Viral/DJ_Opus_Remix_Viral_12.mp3",
+			"duration": "323",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 73,
+			"name_category": "DJ Opus Remix Viral",
+			"title": "DJ BE ALRIGHT SLOW",
+			"image": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.djciperipampam/DJ_Opus_Remix_Viral/tray.jpg",
+			"link_mp3": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.djciperipampam/DJ_Opus_Remix_Viral/DJ_Opus_Remix_Viral_13.mp3",
+			"duration": "359",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 74,
+			"name_category": "DJ Opus Remix Viral",
+			"title": "DJ BETA JANJI BETA JAGA",
+			"image": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.djciperipampam/DJ_Opus_Remix_Viral/tray.jpg",
+			"link_mp3": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.djciperipampam/DJ_Opus_Remix_Viral/DJ_Opus_Remix_Viral_14.mp3",
+			"duration": "309",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 75,
+			"name_category": "DJ Opus Remix Viral",
+			"title": "DJ DARI YANG MUDA X TUKERAN SEMVAQ",
+			"image": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.djciperipampam/DJ_Opus_Remix_Viral/tray.jpg",
+			"link_mp3": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.djciperipampam/DJ_Opus_Remix_Viral/DJ_Opus_Remix_Viral_15.mp3",
+			"duration": "398",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 76,
+			"name_category": "DJ Opus Remix Viral",
+			"title": "DJ IN DA GHETTO",
+			"image": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.djciperipampam/DJ_Opus_Remix_Viral/tray.jpg",
+			"link_mp3": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.djciperipampam/DJ_Opus_Remix_Viral/DJ_Opus_Remix_Viral_16.mp3",
+			"duration": "242",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 77,
+			"name_category": "DJ Opus Remix Viral",
+			"title": "DJ JANDA MUDA GOYANG",
+			"image": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.djciperipampam/DJ_Opus_Remix_Viral/tray.jpg",
+			"link_mp3": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.djciperipampam/DJ_Opus_Remix_Viral/DJ_Opus_Remix_Viral_17.mp3",
+			"duration": "327",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 78,
+			"name_category": "DJ Opus Remix Viral",
+			"title": "DJ KNOW ME TOO WELL",
+			"image": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.djciperipampam/DJ_Opus_Remix_Viral/tray.jpg",
+			"link_mp3": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.djciperipampam/DJ_Opus_Remix_Viral/DJ_Opus_Remix_Viral_18.mp3",
+			"duration": "275",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 79,
+			"name_category": "DJ Opus Remix Viral",
+			"title": "DJ LOVE TONIGHT ENGKOL",
+			"image": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.djciperipampam/DJ_Opus_Remix_Viral/tray.jpg",
+			"link_mp3": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.djciperipampam/DJ_Opus_Remix_Viral/DJ_Opus_Remix_Viral_19.mp3",
+			"duration": "298",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 80,
+			"name_category": "DJ Opus Remix Viral",
+			"title": "DJ MAMA MUDA GOYANG PAPA MUDA",
+			"image": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.djciperipampam/DJ_Opus_Remix_Viral/tray.jpg",
+			"link_mp3": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.djciperipampam/DJ_Opus_Remix_Viral/DJ_Opus_Remix_Viral_20.mp3",
+			"duration": "310",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 81,
+			"name_category": "DJ Opus Remix Viral",
+			"title": "DJ WAN GOMBEL RING DING DONG",
+			"image": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.djciperipampam/DJ_Opus_Remix_Viral/tray.jpg",
+			"link_mp3": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.djciperipampam/DJ_Opus_Remix_Viral/DJ_Opus_Remix_Viral_21.mp3",
+			"duration": "294",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 82,
+			"name_category": "DJ Opus Remix Viral",
+			"title": "DJ AKU TAK MAU BICARA SEBELUM KAU CERITA SEMUA",
+			"image": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.djciperipampam/DJ_Opus_Remix_Viral/tray.jpg",
+			"link_mp3": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.djciperipampam/DJ_Opus_Remix_Viral/DJ_Opus_Remix_Viral_22.mp3",
+			"duration": "299",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 83,
+			"name_category": "DJ Opus Remix Viral",
+			"title": "DJ ALL NIGHT NO SLEEP",
+			"image": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.djciperipampam/DJ_Opus_Remix_Viral/tray.jpg",
+			"link_mp3": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.djciperipampam/DJ_Opus_Remix_Viral/DJ_Opus_Remix_Viral_23.mp3",
+			"duration": "330",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 84,
+			"name_category": "DJ Opus Remix Viral",
+			"title": "DJ AMELIA",
+			"image": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.djciperipampam/DJ_Opus_Remix_Viral/tray.jpg",
+			"link_mp3": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.djciperipampam/DJ_Opus_Remix_Viral/DJ_Opus_Remix_Viral_24.mp3",
+			"duration": "343",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 85,
+			"name_category": "DJ Opus Remix Viral",
+			"title": "DJ AYO GOYANG TERCYDUK",
+			"image": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.djciperipampam/DJ_Opus_Remix_Viral/tray.jpg",
+			"link_mp3": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.djciperipampam/DJ_Opus_Remix_Viral/DJ_Opus_Remix_Viral_25.mp3",
+			"duration": "275",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 86,
+			"name_category": "DJ Opus Remix Viral",
+			"title": "DJ BOKA DANCE",
+			"image": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.djciperipampam/DJ_Opus_Remix_Viral/tray.jpg",
+			"link_mp3": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.djciperipampam/DJ_Opus_Remix_Viral/DJ_Opus_Remix_Viral_26.mp3",
+			"duration": "305",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 87,
+			"name_category": "DJ Opus Remix Viral",
+			"title": "DJ GOYANG PARGOY",
+			"image": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.djciperipampam/DJ_Opus_Remix_Viral/tray.jpg",
+			"link_mp3": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.djciperipampam/DJ_Opus_Remix_Viral/DJ_Opus_Remix_Viral_27.mp3",
+			"duration": "305",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 88,
+			"name_category": "DJ Opus Remix Viral",
+			"title": "DJ MENIMISU X AKON RIGHT NOW",
+			"image": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.djciperipampam/DJ_Opus_Remix_Viral/tray.jpg",
+			"link_mp3": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.djciperipampam/DJ_Opus_Remix_Viral/DJ_Opus_Remix_Viral_28.mp3",
+			"duration": "329",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 89,
+			"name_category": "DJ Opus Remix Viral",
+			"title": "DJ POLAROID LOVE",
+			"image": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.djciperipampam/DJ_Opus_Remix_Viral/tray.jpg",
+			"link_mp3": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.djciperipampam/DJ_Opus_Remix_Viral/DJ_Opus_Remix_Viral_29.mp3",
+			"duration": "304",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 90,
+			"name_category": "DJ Opus Remix Viral",
+			"title": "DJ TE MOLLA X TAKE AWAY",
+			"image": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.djciperipampam/DJ_Opus_Remix_Viral/tray.jpg",
+			"link_mp3": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.djciperipampam/DJ_Opus_Remix_Viral/DJ_Opus_Remix_Viral_30.mp3",
+			"duration": "315",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 91,
+			"name_category": "DJ Opus Remix Viral",
+			"title": "DJ WONDERLAND SLOW",
+			"image": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.djciperipampam/DJ_Opus_Remix_Viral/tray.jpg",
+			"link_mp3": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.djciperipampam/DJ_Opus_Remix_Viral/DJ_Opus_Remix_Viral_31.mp3",
+			"duration": "306",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 92,
+			"name_category": "DJ Remix Viral Full Bass",
+			"title": "dj cidro 2 cindi chintya dewi selow remix terbaru viral tik tok 2021 jpc dj tatang axl 9017849950599434611",
+			"image": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.djciperipampam/DJ_Remix_Viral_Full_Bass/tray.jpg",
+			"link_mp3": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.djciperipampam/DJ_Remix_Viral_Full_Bass/DJ_Remix_Viral_Full_Bass_1.mp3",
+			"duration": "330",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 93,
+			"name_category": "DJ Remix Viral Full Bass",
+			"title": "DJ Remix Viral Full Bass 2",
+			"image": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.djciperipampam/DJ_Remix_Viral_Full_Bass/tray.jpg",
+			"link_mp3": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.djciperipampam/DJ_Remix_Viral_Full_Bass/DJ_Remix_Viral_Full_Bass_2.mp3",
+			"duration": "224",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 94,
+			"name_category": "DJ Remix Viral Full Bass",
+			"title": "DJ Remix Viral Full Bass 3",
+			"image": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.djciperipampam/DJ_Remix_Viral_Full_Bass/tray.jpg",
+			"link_mp3": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.djciperipampam/DJ_Remix_Viral_Full_Bass/DJ_Remix_Viral_Full_Bass_3.mp3",
+			"duration": "272",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 95,
+			"name_category": "DJ Remix Viral Full Bass",
+			"title": "DJ Remix Viral Full Bass 4",
+			"image": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.djciperipampam/DJ_Remix_Viral_Full_Bass/tray.jpg",
+			"link_mp3": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.djciperipampam/DJ_Remix_Viral_Full_Bass/DJ_Remix_Viral_Full_Bass_4.mp3",
+			"duration": "259",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 96,
+			"name_category": "DJ Remix Viral Full Bass",
+			"title": "DJ Remix Viral Full Bass 5",
+			"image": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.djciperipampam/DJ_Remix_Viral_Full_Bass/tray.jpg",
+			"link_mp3": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.djciperipampam/DJ_Remix_Viral_Full_Bass/DJ_Remix_Viral_Full_Bass_5.mp3",
+			"duration": "275",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 97,
+			"name_category": "DJ Remix Viral Full Bass",
+			"title": "DJ Remix Viral Full Bass 6",
+			"image": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.djciperipampam/DJ_Remix_Viral_Full_Bass/tray.jpg",
+			"link_mp3": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.djciperipampam/DJ_Remix_Viral_Full_Bass/DJ_Remix_Viral_Full_Bass_6.mp3",
+			"duration": "173",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 98,
+			"name_category": "DJ Remix Viral Full Bass",
+			"title": "DJ Remix Viral Full Bass 7",
+			"image": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.djciperipampam/DJ_Remix_Viral_Full_Bass/tray.jpg",
+			"link_mp3": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.djciperipampam/DJ_Remix_Viral_Full_Bass/DJ_Remix_Viral_Full_Bass_7.mp3",
+			"duration": "270",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 99,
+			"name_category": "DJ Remix Viral Full Bass",
+			"title": "DJ Remix Viral Full Bass 8",
+			"image": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.djciperipampam/DJ_Remix_Viral_Full_Bass/tray.jpg",
+			"link_mp3": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.djciperipampam/DJ_Remix_Viral_Full_Bass/DJ_Remix_Viral_Full_Bass_8.mp3",
+			"duration": "284",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 100,
+			"name_category": "DJ Remix Viral Full Bass",
+			"title": "DJ Remix Viral Full Bass 9",
+			"image": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.djciperipampam/DJ_Remix_Viral_Full_Bass/tray.jpg",
+			"link_mp3": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.djciperipampam/DJ_Remix_Viral_Full_Bass/DJ_Remix_Viral_Full_Bass_9.mp3",
+			"duration": "212",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 101,
+			"name_category": "DJ Remix Viral Full Bass",
+			"title": "DJ Remix Viral Full Bass 10",
+			"image": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.djciperipampam/DJ_Remix_Viral_Full_Bass/tray.jpg",
+			"link_mp3": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.djciperipampam/DJ_Remix_Viral_Full_Bass/DJ_Remix_Viral_Full_Bass_10.mp3",
+			"duration": "290",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 102,
+			"name_category": "DJ Remix Viral Full Bass",
+			"title": "DJ Remix Viral Full Bass 11",
+			"image": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.djciperipampam/DJ_Remix_Viral_Full_Bass/tray.jpg",
+			"link_mp3": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.djciperipampam/DJ_Remix_Viral_Full_Bass/DJ_Remix_Viral_Full_Bass_11.mp3",
+			"duration": "256",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 103,
+			"name_category": "DJ Remix Viral Full Bass",
+			"title": "DJ Remix Viral Full Bass 12",
+			"image": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.djciperipampam/DJ_Remix_Viral_Full_Bass/tray.jpg",
+			"link_mp3": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.djciperipampam/DJ_Remix_Viral_Full_Bass/DJ_Remix_Viral_Full_Bass_12.mp3",
+			"duration": "316",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 104,
+			"name_category": "DJ Remix Viral Full Bass",
+			"title": "DJ Remix Viral Full Bass 13",
+			"image": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.djciperipampam/DJ_Remix_Viral_Full_Bass/tray.jpg",
+			"link_mp3": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.djciperipampam/DJ_Remix_Viral_Full_Bass/DJ_Remix_Viral_Full_Bass_13.mp3",
+			"duration": "261",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 105,
+			"name_category": "DJ Remix Viral Full Bass",
+			"title": "DJ Remix Viral Full Bass 14",
+			"image": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.djciperipampam/DJ_Remix_Viral_Full_Bass/tray.jpg",
+			"link_mp3": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.djciperipampam/DJ_Remix_Viral_Full_Bass/DJ_Remix_Viral_Full_Bass_14.mp3",
+			"duration": "302",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 106,
+			"name_category": "DJ Remix Viral Full Bass",
+			"title": "DJ Remix Viral Full Bass 15",
+			"image": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.djciperipampam/DJ_Remix_Viral_Full_Bass/tray.jpg",
+			"link_mp3": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.djciperipampam/DJ_Remix_Viral_Full_Bass/DJ_Remix_Viral_Full_Bass_15.mp3",
+			"duration": "255",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 107,
+			"name_category": "DJ Remix Viral Full Bass",
+			"title": "DJ Remix Viral Full Bass 16",
+			"image": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.djciperipampam/DJ_Remix_Viral_Full_Bass/tray.jpg",
+			"link_mp3": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.djciperipampam/DJ_Remix_Viral_Full_Bass/DJ_Remix_Viral_Full_Bass_16.mp3",
+			"duration": "283",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 108,
+			"name_category": "DJ Remix Viral Full Bass",
+			"title": "DJ Remix Viral Full Bass 17",
+			"image": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.djciperipampam/DJ_Remix_Viral_Full_Bass/tray.jpg",
+			"link_mp3": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.djciperipampam/DJ_Remix_Viral_Full_Bass/DJ_Remix_Viral_Full_Bass_17.mp3",
+			"duration": "355",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 109,
+			"name_category": "DJ Remix Viral Full Bass",
+			"title": "DJ Remix Viral Full Bass 18",
+			"image": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.djciperipampam/DJ_Remix_Viral_Full_Bass/tray.jpg",
+			"link_mp3": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.djciperipampam/DJ_Remix_Viral_Full_Bass/DJ_Remix_Viral_Full_Bass_18.mp3",
+			"duration": "351",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 110,
+			"name_category": "DJ Remix Viral Full Bass",
+			"title": "DJ Remix Viral Full Bass 19",
+			"image": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.djciperipampam/DJ_Remix_Viral_Full_Bass/tray.jpg",
+			"link_mp3": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.djciperipampam/DJ_Remix_Viral_Full_Bass/DJ_Remix_Viral_Full_Bass_19.mp3",
+			"duration": "407",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 111,
+			"name_category": "DJ Remix Viral Full Bass",
+			"title": "DJ Remix Viral Full Bass 20",
+			"image": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.djciperipampam/DJ_Remix_Viral_Full_Bass/tray.jpg",
+			"link_mp3": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.djciperipampam/DJ_Remix_Viral_Full_Bass/DJ_Remix_Viral_Full_Bass_20.mp3",
+			"duration": "307",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 112,
+			"name_category": "DJ Remix Viral Full Bass",
+			"title": "DJ Remix Viral Full Bass 21",
+			"image": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.djciperipampam/DJ_Remix_Viral_Full_Bass/tray.jpg",
+			"link_mp3": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.djciperipampam/DJ_Remix_Viral_Full_Bass/DJ_Remix_Viral_Full_Bass_21.mp3",
+			"duration": "330",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 113,
+			"name_category": "DJ Remix Viral Full Bass",
+			"title": "DJ Remix Viral Full Bass 22",
+			"image": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.djciperipampam/DJ_Remix_Viral_Full_Bass/tray.jpg",
+			"link_mp3": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.djciperipampam/DJ_Remix_Viral_Full_Bass/DJ_Remix_Viral_Full_Bass_22.mp3",
+			"duration": "381",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 114,
+			"name_category": "DJ Remix Viral Full Bass",
+			"title": "DJ Remix Viral Full Bass 23",
+			"image": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.djciperipampam/DJ_Remix_Viral_Full_Bass/tray.jpg",
+			"link_mp3": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.djciperipampam/DJ_Remix_Viral_Full_Bass/DJ_Remix_Viral_Full_Bass_23.mp3",
+			"duration": "303",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 115,
+			"name_category": "DJ Remix Viral Full Bass",
+			"title": "DJ Remix Viral Full Bass 24",
+			"image": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.djciperipampam/DJ_Remix_Viral_Full_Bass/tray.jpg",
+			"link_mp3": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.djciperipampam/DJ_Remix_Viral_Full_Bass/DJ_Remix_Viral_Full_Bass_24.mp3",
+			"duration": "403",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 116,
+			"name_category": "DJ Remix Viral Full Bass",
+			"title": "DJ Remix Viral Full Bass 25",
+			"image": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.djciperipampam/DJ_Remix_Viral_Full_Bass/tray.jpg",
+			"link_mp3": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.djciperipampam/DJ_Remix_Viral_Full_Bass/DJ_Remix_Viral_Full_Bass_25.mp3",
+			"duration": "249",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 117,
+			"name_category": "DJ Remix Viral Full Bass",
+			"title": "DJ Remix Viral Full Bass 26",
+			"image": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.djciperipampam/DJ_Remix_Viral_Full_Bass/tray.jpg",
+			"link_mp3": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.djciperipampam/DJ_Remix_Viral_Full_Bass/DJ_Remix_Viral_Full_Bass_26.mp3",
+			"duration": "257",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 118,
+			"name_category": "DJ Remix Viral Full Bass",
+			"title": "DJ Remix Viral Full Bass 27",
+			"image": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.djciperipampam/DJ_Remix_Viral_Full_Bass/tray.jpg",
+			"link_mp3": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.djciperipampam/DJ_Remix_Viral_Full_Bass/DJ_Remix_Viral_Full_Bass_27.mp3",
+			"duration": "282",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 119,
+			"name_category": "DJ Remix Viral Full Bass",
+			"title": "DJ Remix Viral Full Bass 28",
+			"image": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.djciperipampam/DJ_Remix_Viral_Full_Bass/tray.jpg",
+			"link_mp3": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.djciperipampam/DJ_Remix_Viral_Full_Bass/DJ_Remix_Viral_Full_Bass_28.mp3",
+			"duration": "242",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 120,
+			"name_category": "DJ Remix Viral Full Bass",
+			"title": "DJ Remix Viral Full Bass 29",
+			"image": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.djciperipampam/DJ_Remix_Viral_Full_Bass/tray.jpg",
+			"link_mp3": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.djciperipampam/DJ_Remix_Viral_Full_Bass/DJ_Remix_Viral_Full_Bass_29.mp3",
+			"duration": "313",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 121,
+			"name_category": "DJ Remix Viral Full Bass",
+			"title": "DJ Remix Viral Full Bass 30",
+			"image": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.djciperipampam/DJ_Remix_Viral_Full_Bass/tray.jpg",
+			"link_mp3": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.djciperipampam/DJ_Remix_Viral_Full_Bass/DJ_Remix_Viral_Full_Bass_30.mp3",
+			"duration": "300",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 122,
+			"name_category": "DJ Remix Viral Full Bass",
+			"title": "DJ Remix Viral Full Bass 31",
+			"image": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.djciperipampam/DJ_Remix_Viral_Full_Bass/tray.jpg",
+			"link_mp3": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.djciperipampam/DJ_Remix_Viral_Full_Bass/DJ_Remix_Viral_Full_Bass_31.mp3",
+			"duration": "245",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 123,
+			"name_category": "DJ Remix Viral Full Bass",
+			"title": "DJ Remix Viral Full Bass 32",
+			"image": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.djciperipampam/DJ_Remix_Viral_Full_Bass/tray.jpg",
+			"link_mp3": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.djciperipampam/DJ_Remix_Viral_Full_Bass/DJ_Remix_Viral_Full_Bass_32.mp3",
+			"duration": "253",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 124,
+			"name_category": "DJ Remix Viral Full Bass",
+			"title": "DJ Remix Viral Full Bass 33",
+			"image": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.djciperipampam/DJ_Remix_Viral_Full_Bass/tray.jpg",
+			"link_mp3": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.djciperipampam/DJ_Remix_Viral_Full_Bass/DJ_Remix_Viral_Full_Bass_33.mp3",
+			"duration": "441",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 125,
+			"name_category": "DJ Remix Viral Full Bass",
+			"title": "DJ Remix Viral Full Bass 34",
+			"image": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.djciperipampam/DJ_Remix_Viral_Full_Bass/tray.jpg",
+			"link_mp3": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.djciperipampam/DJ_Remix_Viral_Full_Bass/DJ_Remix_Viral_Full_Bass_34.mp3",
+			"duration": "324",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 126,
+			"name_category": "DJ Remix Viral Full Bass",
+			"title": "DJ Remix Viral Full Bass 35",
+			"image": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.djciperipampam/DJ_Remix_Viral_Full_Bass/tray.jpg",
+			"link_mp3": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.djciperipampam/DJ_Remix_Viral_Full_Bass/DJ_Remix_Viral_Full_Bass_35.mp3",
+			"duration": "281",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 127,
+			"name_category": "DJ Remix Viral Full Bass",
+			"title": "DJ Remix Viral Full Bass 36",
+			"image": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.djciperipampam/DJ_Remix_Viral_Full_Bass/tray.jpg",
+			"link_mp3": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.djciperipampam/DJ_Remix_Viral_Full_Bass/DJ_Remix_Viral_Full_Bass_36.mp3",
+			"duration": "281",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 128,
+			"name_category": "DJ Remix Viral Full Bass",
+			"title": "DJ Remix Viral Full Bass 37",
+			"image": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.djciperipampam/DJ_Remix_Viral_Full_Bass/tray.jpg",
+			"link_mp3": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.djciperipampam/DJ_Remix_Viral_Full_Bass/DJ_Remix_Viral_Full_Bass_37.mp3",
+			"duration": "248",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 129,
+			"name_category": "DJ Remix Viral Full Bass",
+			"title": "DJ Remix Viral Full Bass 38",
+			"image": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.djciperipampam/DJ_Remix_Viral_Full_Bass/tray.jpg",
+			"link_mp3": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.djciperipampam/DJ_Remix_Viral_Full_Bass/DJ_Remix_Viral_Full_Bass_38.mp3",
+			"duration": "198",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 130,
+			"name_category": "Natti Natasha  Ram Pam Pam",
+			"title": "La Mejor Version de Mi",
+			"image": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.djciperipampam/Natti_Natasha__Ram_Pam_Pam/tray.jpg",
+			"link_mp3": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.djciperipampam/Natti_Natasha__Ram_Pam_Pam/Natti_Natasha__Ram_Pam_Pam_1.mp3",
+			"duration": "134",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 131,
+			"name_category": "Natti Natasha  Ram Pam Pam",
+			"title": "Natti Natasha  Ram Pam Pam 2",
+			"image": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.djciperipampam/Natti_Natasha__Ram_Pam_Pam/tray.jpg",
+			"link_mp3": "https://devharapanjaya.labigsharim.me/com.harapanjayadev.djciperipampam/Natti_Natasha__Ram_Pam_Pam/Natti_Natasha__Ram_Pam_Pam_2.mp3",
+			"duration": "218",
+			"lyrics": "Tidak Ada Lirik"
+		}
+	]
+}
